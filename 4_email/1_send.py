@@ -1,5 +1,3 @@
-#-*- coding: UTF-8 -*-
-
 import smtplib
 import urllib.parse # 유니코드 에러 해결을 위한 모듈
 from email.mime.text import MIMEText
@@ -14,5 +12,5 @@ with smtplib.SMTP("smtp.gmail.com", 587) as smtp:
     msg['Subject'] = '제목 : 메일 보내기 테스트입니다.'
 
     # 발신자, 수신자, 정해진 형식의 메시지
-    smtp.sendmail("tngks0315@gmail.com", "tngks0315@naver.com", msg) 
-    
+    smtp.sendmail("tngks0315@gmail.com", "tngks0315@naver.com", msg.as_string()) 
+    smtp.quit()
