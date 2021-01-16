@@ -19,6 +19,7 @@ import pyautogui
 # trash_icon = pyautogui.locateOnScreen("trash_icon.png")
 # pyautogui.moveTo(trash_icon)
 
+
 # 1. GrayScale
 # trash_icon = pyautogui.locateOnScreen("trash_icon.png", grayscale=True)
 # pyautogui.moveTo(trash_icon)
