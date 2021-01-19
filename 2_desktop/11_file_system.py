@@ -22,9 +22,9 @@ import os
 # import datetime
 
 # 파일의 생성 날짜
-# file_path = "rpa_basic/2_desktop/11_file_system.py"
-# ctime = os.path.getctime(file_path)
-# print(ctime)
+file_path = "rpa_basic/2_desktop/11_file_system.py"
+ctime = os.path.getctime(file_path)
+print(ctime)
 # # 날짜 정보를 strftime 을 통해서 연월일 시분초 형태로 출력
 # print(datetime.datetime.fromtimestamp(ctime).strftime("%Y%m%d %H:%M:%S"))
 
