@@ -113,7 +113,7 @@ print(ctime)
 # 폴더 지우기
 #os.rmdir("new_folders") # 폴더 안이 비었을 때만 삭제 가능
 
-import shutil # shell utilities
+import shutil# shell utilities
 #shutil.rmtree("new_folders") # 폴더 안이 비어 있지 않아도 완전 삭제 가능
 # 모든 파일이 삭제될 수 있으므로 주의!!!
 
