@@ -127,7 +127,7 @@ import shutil # shell utilities
 # shutil.copy("run_btn.png", "test_folder/copy.png")
 # shutil.copy2("run_btn.png", "test_folder/copy2.png") # 원본 파일 경로, 대상 폴더(파일) 경로
 
-# copy, copyfile : 메타정보 복사 X
+# copy, copyfile: 메타정보 복사 X
 # copy2 : 메타정보 복사 O
 
 # 폴더 복사
