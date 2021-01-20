@@ -117,7 +117,7 @@ import shutil # shell utilities
 #shutil.rmtree("new_folders") # 폴더 안이 비어 있지 않아도 완전 삭제 가능
 # 모든 파일이 삭제될 수 있으므로 주의!!!
 
-# 파일 복사하기
+# 파일 복사
 # 어떤 파일을 폴더 안으로 복사하기
 #shutil.copy("run_btn.png", "test_folder") # 원본 파일 경로, 대상 폴더 경로
 # 어떤 파일을 폴더 안에 새로운 파일 이름으로 복사하기
