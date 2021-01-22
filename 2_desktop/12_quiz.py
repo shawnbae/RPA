@@ -21,7 +21,7 @@ pyautogui.sleep(2)
 
 window = pyautogui.getWindowsWithTitle("제목 없음 - 그림판")[0] # 그림판 1개만 뜨워져 있다고 가정
 #if window.isMaximized == False:
-#   window.maximize() # 최대화
+#  window.maximize() # 최대화
 
 # 글자 버튼 클릭
 btn_text = pyautogui.locateOnScreen("btn_text.png", confidence=0.8)
