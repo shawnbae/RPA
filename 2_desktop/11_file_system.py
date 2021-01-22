@@ -73,7 +73,6 @@ print(ctime)
 #             result.append(os.path.join(root, name))
 # print(result)
 
-
 # 주어진 경로가 파일인지? 폴더인지?
 # print(os.path.isdir("rpa_basic")) # rpa_basic 은 폴더인가? True
 # print(os.path.isfile("rpa_basic")) # rpa_basic 은 파일인가? False
