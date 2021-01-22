@@ -98,7 +98,6 @@ print(ctime)
 # 파일 삭제하기
 #os.remove("new_file_rename.txt")
 
-
 # 폴더 만들기
 #os.mkdir("new_folder") # 현재 경로 기준으로 폴더 생성
 #os.mkdir("c:/users/nadocoding/test") # 절대 경로 기준으로 폴더 생성
