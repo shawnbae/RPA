@@ -8,7 +8,6 @@ import logging
 # logging.error("에러가 발생하였습니다. 에러 코드는 ...")
 # logging.critical("복구가 0불가능한 심각한 문제가 발생했습니다...")
 
-
 # 터미널과 파일에 함께 로그 남기기
 import logging
 from datetime import datetime
