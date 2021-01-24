@@ -27,5 +27,4 @@ filename = datetime.now().strftime("mylogfile_%Y%m%d%H%M%S.log") # mylogfile_202
 fileHandler = logging.FileHandler(filename, encoding="utf-8")
 fileHandler.setFormatter(logFormatter)
 logger.addHandler(fileHandler)
-
 logger.debug("로그를 남겨보는 테스트를 진행합니다.")
