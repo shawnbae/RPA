@@ -1,1 +1,13 @@
 2021-01-24 15:44:21,096 [DEBUG] 로그를 남겨보는 테스트를 진행합니다.
+2021-01-25 20:54:11,136 [DEBUG] POST http://127.0.0.1:58802/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2021-01-25 20:54:11,142 [DEBUG] Starting new HTTP connection (1): 127.0.0.1:58802
+2021-01-25 20:54:12,498 [DEBUG] http://127.0.0.1:58802 "POST /session HTTP/1.1" 500 992
+2021-01-25 20:54:12,504 [DEBUG] Finished Request
+2021-01-25 20:54:24,608 [DEBUG] POST http://127.0.0.1:58832/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2021-01-25 20:54:24,614 [DEBUG] Starting new HTTP connection (1): 127.0.0.1:58832
+2021-01-25 20:54:26,012 [DEBUG] http://127.0.0.1:58832 "POST /session HTTP/1.1" 500 992
+2021-01-25 20:54:26,017 [DEBUG] Finished Request
+2021-01-26 14:54:19,370 [DEBUG] POST http://127.0.0.1:59230/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2021-01-26 14:54:19,375 [DEBUG] Starting new HTTP connection (1): 127.0.0.1:59230
+2021-01-26 14:54:20,641 [DEBUG] http://127.0.0.1:59230 "POST /session HTTP/1.1" 500 992
+2021-01-26 14:54:20,646 [DEBUG] Finished Request
