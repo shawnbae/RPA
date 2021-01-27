@@ -17,7 +17,7 @@ elem = browser.find_element_by_xpath('//*[@id="male"]') # 실패
 
 elem.click()
 
-time.sleep(5) # 5초 대기
+time.sleep(5)
 
 browser.quit()
 
