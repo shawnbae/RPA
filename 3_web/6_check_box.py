@@ -9,7 +9,7 @@ browser.get('https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_input_ty
 
 browser.switch_to.frame('iframeResult')
 
-# 요소를 
+# 요소를 찾는 
 #elem = browser.find_element_by_xpath('//*[@id="vehicle1"]')
 #elem = browser.find_element(By.XPATH, '//*[@id="vehicle1"]')
 elem = browser.find_element(By.ID, 'vehicle1')
