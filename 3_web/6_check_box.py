@@ -20,7 +20,7 @@ if elem.is_selected() == False:
     print("선택 안되어 있으므로 선택")
     elem.click()
 else:
-    print("선택 되어 있으므로 아무것도 안함")
+    print("선택 되어 있으므로 아무것도 하")
 
 time.sleep(5)
 browser.quit()
