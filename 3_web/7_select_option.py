@@ -10,7 +10,7 @@ browser.switch_to.frame('iframeResult')
 # elem = browser.find_element_by_xpath('//*[@id="cars"]/option[4]')
 # option[1] : 첫번째 항목 
 # option[2] : 두번째 항목 
-# ...
+
 # elem.click()
 
 time.sleep(5)
