@@ -19,7 +19,6 @@ time.sleep(5)
 # 옵션 중에서 텍스트가 Audi 인 항목을 선택
 # elem = browser.find_element_by_xpath('//*[@id="cars"]/option[text()="Audi"]')
 # elem.click()
-
 # 텍스트 값이 부분 일치하는 항목 선택하는 방법
 elem = browser.find_element_by_xpath('//*[@id="cars"]/option[contains(text(), "Au")]')
 elem.click()
