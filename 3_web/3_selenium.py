@@ -77,5 +77,4 @@ browser.page_source
 # 브라우저 종료
 browser.close() # 현재 탭 닫기
 browser.quit() # 브라우저 종료하기
-
 # 참고 URL : https://selenium-python.readthedocs.io/
