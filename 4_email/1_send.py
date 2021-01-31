@@ -8,7 +8,7 @@ with smtplib.SMTP("smtp.gmail.com", 587) as smtp:
     smtp.starttls() # 모든 내용이 암호화되어 전송
     smtp.login("tngks0315@gmail.com", "hzim iykx xakb eerv") # 로그인
 
-    msg = MIMEText('내용 : 이후엽 병신.')
+    msg = MIMEText('내용 : 안녕하세요.')
     msg['Subject'] = '제목 : 메일 보내기 테스트입니다.'
 
     # 발신자, 수신자, 정해진 형식의 메시지
