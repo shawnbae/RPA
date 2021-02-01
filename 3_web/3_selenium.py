@@ -53,7 +53,7 @@ browser.get('http://daum.net')
 # 검색창 찾기
 elem = browser.find_element_by_name('q')
 
-# 글자 입력하기
+# 글자 입력
 elem.send_keys("나도코딩")
 
 # 글자 지우기
