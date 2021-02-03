@@ -9,6 +9,6 @@ img.save("screenshot.png") # 파일로 저장
 pixel = pyautogui.pixel(28, 18)
 print(pixel)
 
-#print(pyautogui.pixelMatchesColor(28, 18, (34,167,242)))
+print(pyautogui.pixelMatchesColor(28, 18, (34,167,242)))
 #print(pyautogui.pixelMatchesColor(28, 18, pixel))
 print(pyautogui.pixelMatchesColor(28, 18, (34,167,243)))
