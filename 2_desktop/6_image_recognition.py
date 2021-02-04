@@ -1,7 +1,7 @@
 import pyautogui
-# file_menu = pyautogui.locateOnScreen("file_menu.png")
-# print(file_menu)
-# pyautogui.click(file_menu)
+file_menu = pyautogui.locateOnScreen("file_menu.png")
+print(file_menu)
+pyautogui.click(file_menu)
 
 # trash_icon = pyautogui.locateOnScreen("trash_icon.png")
 # pyautogui.moveTo(trash_icon)
