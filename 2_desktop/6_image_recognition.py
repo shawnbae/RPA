@@ -21,8 +21,8 @@ pyautogui.moveTo(trash_icon)
 
 
 # 1. GrayScale
-# trash_icon = pyautogui.locateOnScreen("trash_icon.png", grayscale=True)
-# pyautogui.moveTo(trash_icon)
+trash_icon = pyautogui.locateOnScreen("trash_icon.png", grayscale=True)
+pyautogui.moveTo(trash_icon)
 
 # 2. 범위 지정
 # trash_icon = pyautogui.locateOnScreen("trash_icon.png", region=(1488, 623, 1881 - 1488, 137))
