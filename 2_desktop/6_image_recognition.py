@@ -35,15 +35,15 @@ pyautogui.moveTo(run_btn)
 
 # 자동화 대상이 바로 보여지지 않는 경우
 # 1. 계속 기다리기
-#file_menu_notepad = pyautogui.locateOnScreen("file_menu_notepad.png")
-# if file_menu_notepad:
-#     pyautogui.click(file_menu_notepad)
-# else:
-#     print("발견 실패")
-# while file_menu_notepad is None:
-#     file_menu_notepad = pyautogui.locateOnScreen("file_menu_notepad.png")
-#     print("발견 실패")
-#pyautogui.click(file_menu_notepad)
+file_menu_notepad = pyautogui.locateOnScreen("file_menu_notepad.png")
+if file_menu_notepad:
+    pyautogui.click(file_menu_notepad)
+else:
+    print("발견 실패")
+while file_menu_notepad is None:
+    file_menu_notepad = pyautogui.locateOnScreen("file_menu_notepad.png")
+    print("발견 실패")
+pyautogui.click(file_menu_notepad)
 
 # 2. 일정 시간동안 기다리기 (TimeOut)
 import time
