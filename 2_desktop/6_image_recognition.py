@@ -29,8 +29,8 @@ trash_icon = pyautogui.locateOnScreen("trash_icon.png", region=(1488, 623, 1881 
 pyautogui.moveTo(trash_icon)
 
 # 3. 정확도 조정
-# run_btn = pyautogui.locateOnScreen("run_btn.png", confidence=0.9) # 90%
-# pyautogui.moveTo(run_btn)
+run_btn = pyautogui.locateOnScreen("run_btn.png", confidence=0.9) # 90%
+pyautogui.moveTo(run_btn)
 
 
 # 자동화 대상이 바로 보여지지 않는 경우
