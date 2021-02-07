@@ -77,6 +77,6 @@ def my_click(img_file, timeout=30):
         print(f"[Timeout {timeout}s] Target not found ({img_file}). Terminate program.")
         sys.exit()
 
-#pyautogui.click(file_menu_notepad)
+pyautogui.click(file_menu_notepad)
 
 my_click("file_menu_notepad.png", 10)
