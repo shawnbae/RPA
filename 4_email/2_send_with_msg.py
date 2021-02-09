@@ -13,7 +13,7 @@ to_list = ["nadocoding@gmail.com", "nadocoding@gmail.com"]
 msg["To"] = ", ".join(to_list)
 
 # # 참조
-# msg["Cc"] = "nadocoding@gmail.com"
+msg["Cc"] = "nadocoding@gmail.com"
 
 # # 비밀참조
 # msg["Bcc"] = "nadocoding@gmail.com"
