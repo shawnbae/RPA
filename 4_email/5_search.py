@@ -1,9 +1,9 @@
 from imap_tools import MailBox
 from account import *
 
-# mailbox = MailBox("imap.gmail.com", 993)
-# mailbox.login(EMAIL_ADDRESS, EMAIL_PASSWORD, initial_folder="INBOX")
-# mailbox.logout()
+mailbox = MailBox("imap.gmail.com", 993)
+mailbox.login(EMAIL_ADDRESS, EMAIL_PASSWORD, initial_folder="INBOX")
+mailbox.logout()
 
 with MailBox("imap.gmail.com", 993).login(EMAIL_ADDRESS, EMAIL_PASSWORD, initial_folder="INBOX") as mailbox:
     # 전체 메일 다 가져오기
