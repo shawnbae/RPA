@@ -9,7 +9,7 @@ msg["To"] = "nadocoding@gmail.com" # 받는 사람
 msg.set_content("다운로드 하세요")
 
 #MIME Type
-#msg.add_attachment()
+msg.add_attachment()
 with open("btn_brush.png", "rb") as f:
     msg.add_attachment(f.read(), maintype="image", subtype="png", filename=f.name)
 
