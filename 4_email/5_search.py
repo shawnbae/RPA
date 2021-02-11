@@ -11,8 +11,8 @@ with MailBox("imap.gmail.com", 993).login(EMAIL_ADDRESS, EMAIL_PASSWORD, initial
         print("[{}] {}".format(msg.from_, msg.subject))
 
     # 읽지 않은 메일 가져오기
-    # for msg in mailbox.fetch('(UNSEEN)'):
-    #     print("[{}] {}".format(msg.from_, msg.subject))
+    for msg in mailbox.fetch('(UNSEEN)'):
+        print("[{}] {}".format(msg.from_, msg.subject))
 
     # 특정인이 보낸 메일 가져오기
     # for msg in mailbox.fetch('(FROM nadocoding@gmail.com)', limit=3, reverse=True):
