@@ -33,8 +33,8 @@ with MailBox("imap.gmail.com", 993).login(EMAIL_ADDRESS, EMAIL_PASSWORD, initial
     #         print("[{}] {}".format(msg.from_, msg.subject))
 
     # 특정 날짜 이후의 메일
-    # for msg in mailbox.fetch('(SENTSINCE 07-Nov-2020)', reverse=True, limit=5):
-    #     print("[{}] {}".format(msg.from_, msg.subject))
+    for msg in mailbox.fetch('(SENTSINCE 07-Nov-2020)', reverse=True, limit=5):
+        print("[{}] {}".format(msg.from_, msg.subject))
     
     # 특정 날짜에 온 메일
     # for msg in mailbox.fetch('(ON 07-Nov-2020)', reverse=True, limit=5): 
