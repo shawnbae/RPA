@@ -24,8 +24,8 @@ with MailBox("imap.gmail.com", 993).login(EMAIL_ADDRESS, EMAIL_PASSWORD, initial
         print("[{}] {}".format(msg.from_, msg.subject))
 
     # 어떤 글자를 포함하는 메일 (제목만)
-    #for msg in mailbox.fetch('(SUBJECT "test mail")'):
-    #    print("[{}] {}".format(msg.from_, msg.subject))
+    for msg in mailbox.fetch('(SUBJECT "test mail")'):
+        print("[{}] {}".format(msg.from_, msg.subject))
     
     # 어떤 글자(한글)을 포함하는 메일 필터링 (제목만)
     # for msg in mailbox.fetch(limit=5, reverse=True):
