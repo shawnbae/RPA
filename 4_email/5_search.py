@@ -37,8 +37,8 @@ with MailBox("imap.gmail.com", 993).login(EMAIL_ADDRESS, EMAIL_PASSWORD, initial
         print("[{}] {}".format(msg.from_, msg.subject))
     
     # 특정 날짜에 온 메일
-    # for msg in mailbox.fetch('(ON 07-Nov-2020)', reverse=True, limit=5): 
-    #     print("[{}] {}".format(msg.from_, msg.subject))
+    for msg in mailbox.fetch('(ON 07-Nov-2020)', reverse=True, limit=5): 
+        print("[{}] {}".format(msg.from_, msg.subject))
 
     # 2가지 이상의 조건을 모두 만족하는 메일 (그리고 조건)
     # for msg in mailbox.fetch('(ON 07-Nov-2020 SUBJECT "test mail")', reverse=True, limit=5): 
