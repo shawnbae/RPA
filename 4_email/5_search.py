@@ -28,9 +28,9 @@ with MailBox("imap.gmail.com", 993).login(EMAIL_ADDRESS, EMAIL_PASSWORD, initial
         print("[{}] {}".format(msg.from_, msg.subject))
     
     # 어떤 글자(한글)을 포함하는 메일 필터링 (제목만)
-    # for msg in mailbox.fetch(limit=5, reverse=True):
-    #     if "테스트" in msg.subject:
-    #         print("[{}] {}".format(msg.from_, msg.subject))
+    for msg in mailbox.fetch(limit=5, reverse=True):
+        if "테스트" in msg.subject:
+            print("[{}] {}".format(msg.from_, msg.subject))
 
     # 특정 날짜 이후의 메일
     for msg in mailbox.fetch('(SENTSINCE 07-Nov-2020)', reverse=True, limit=5):
