@@ -40,3 +40,7 @@
 2021-02-08 19:35:22,759 [DEBUG] https://api.upbit.com:443 "GET /v1/market/all HTTP/1.1" 200 None
 2021-02-08 19:35:32,290 [DEBUG] Starting new HTTPS connection (1): api.upbit.com:443
 2021-02-08 19:35:32,382 [DEBUG] https://api.upbit.com:443 "GET /v1/market/all HTTP/1.1" 200 None
+2021-02-13 16:28:24,273 [DEBUG] Starting new HTTPS connection (1): api.upbit.com:443
+2021-02-13 16:28:24,463 [DEBUG] https://api.upbit.com:443 "GET /v1/ticker?markets=KRW-BTC HTTP/1.1" 200 None
+2021-02-13 16:28:27,731 [DEBUG] Starting new HTTPS connection (1): api.upbit.com:443
+2021-02-13 16:28:27,889 [DEBUG] https://api.upbit.com:443 "GET /v1/market/all HTTP/1.1" 200 None

@@ -1,3 +1,6 @@
+import os
+os.chdir('c:/Users/soohan/RPA/1_excel')
+
 from openpyxl import load_workbook
 wb = load_workbook("sample.xlsx")
 ws = wb.active
