@@ -11,8 +11,8 @@ for i in range(1, 11): # 10개 데이터 넣기
 
 col_B = ws["B"] # 영어 column 만 가지고 오기
 print(col_B)
-# for cell in col_B:
-#     print(cell.value)
+for cell in col_B:
+    print(cell.value)
 
 col_range = ws["B:C"] # 영어, 수학 column 함께 가지고 오기
 # for cols in col_range:
