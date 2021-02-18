@@ -10,7 +10,7 @@ for i in range(1, 11): # 10개 데이터 넣기
     ws.append([i, randint(0, 100), randint(0, 100)])
 
 col_B = ws["B"] # 영어 column 만 가지고 오기
-#print(col_B)
+print(col_B)
 # for cell in col_B:
 #     print(cell.value)
 
