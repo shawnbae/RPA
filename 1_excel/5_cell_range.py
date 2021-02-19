@@ -15,9 +15,9 @@ for cell in col_B:
     print(cell.value)
 
 col_range = ws["B:C"] # 영어, 수학 column 함께 가지고 오기
-# for cols in col_range:
-#     for cell in cols:
-#         print(cell.value)
+for cols in col_range:
+    for cell in cols:
+        print(cell.value)
 
 row_title = ws[1] # 1번째 row 만 가지고 오기
 # for cell in row_title:
