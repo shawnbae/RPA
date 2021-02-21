@@ -24,10 +24,10 @@ for cell in row_title:
     print(cell.value)
 
 # row_range = ws[2:6] # 1번째 줄인 title 을 제외하고 2번째 줄에서 6번째 줄까지 가지고 오기
-# for rows in row_range:
-#     for cell in rows:
-#         print(cell.value, end=" ")
-#     print()
+for rows in row_range:
+    for cell in rows:
+        print(cell.value, end=" ")
+    print()
 
 # from openpyxl.utils.cell import coordinate_from_string
 
