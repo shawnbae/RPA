@@ -29,7 +29,7 @@ for rows in row_range:
         print(cell.value, end=" ")
     print()
 
-# from openpyxl.utils.cell import coordinate_from_string
+from openpyxl.utils.cell import coordinate_from_string
 
 # row_range = ws[2:ws.max_row] # 2번째 줄부터 마지막 줄까지
 # for rows in row_range:
