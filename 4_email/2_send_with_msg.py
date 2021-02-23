@@ -16,7 +16,7 @@ msg["To"] = ", ".join(to_list)
 msg["Cc"] = "nadocoding@gmail.com"
 
 # # 비밀참조
-# msg["Bcc"] = "g@gmail.com"
+# msg["Bcc"] = "example@gmail.com"
 
 msg.set_content("테스트 본문입니다") # 본문
 
