@@ -8,7 +8,7 @@ msg["From"] = EMAIL_ADDRESS # 보내는 사람
 msg["To"] = "nadocoding@gmail.com" # 받는 사람
 
 # 여러 명에게 메일을 보낼 때
-msg["To"] = "nadocoding@gmail.com, nadocoding@gmail.com"
+msg["To"] = "example@gmail.com, nadocoding@gmail.com"
 to_list = ["nadocoding@gmail.com", "nadocoding@gmail.com"]
 msg["To"] = ", ".join(to_list)
 
