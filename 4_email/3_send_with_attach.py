@@ -5,7 +5,7 @@ from email.message import EmailMessage
 msg = EmailMessage()
 msg["Subject"] = "테스트 메일입니다" # 제목
 msg["From"] = EMAIL_ADDRESS # 보내는 사람
-msg["To"] = "nadocoding@gmail.com" # 받는 사람
+msg["To"] = "example@gmail.com" # 받는 사람
 msg.set_content("다운로드 하세요")
 
 #MIME Type
