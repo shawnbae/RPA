@@ -15,7 +15,7 @@ with MailBox("imap.gmail.com", 993).login(EMAIL_ADDRESS, EMAIL_PASSWORD, initial
         print("[{}] {}".format(msg.from_, msg.subject))
 
     # 특정인이 보낸 메일 가져오기
-    for msg in mailbox.fetch('(FROM nadocoding@gmail.com)', limit=3, reverse=True):
+    for msg in mailbox.fetch('(FROM example@gmail.com)', limit=3, reverse=True):
         print("[{}] {}".format(msg.from_, msg.subject))
 
     # 작은 따옴표로 먼저 감싸고, 실제 TEXT 부분은 큰 따옴표로 감싸주세요
