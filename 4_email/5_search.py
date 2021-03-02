@@ -18,7 +18,7 @@ with MailBox("imap.gmail.com", 993).login(EMAIL_ADDRESS, EMAIL_PASSWORD, initial
     for msg in mailbox.fetch('(FROM example@gmail.com)', limit=3, reverse=True):
         print("[{}] {}".format(msg.from_, msg.subject))
 
-    # 작은 따옴표로 먼저 감싸고, 실제 TEXT 부분은 큰 따옴표로 감싸주세요
+    # 작은 따옴표로 먼저 감싸고, 실제 TEXT 부분은 큰 따옴표로 감싸기
     # 어떤 글자를 포함하는 메일 (제목, 본문)
     for msg in mailbox.fetch('(TEXT "test mail.")'):
         print("[{}] {}".format(msg.from_, msg.subject))
