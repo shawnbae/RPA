@@ -3,7 +3,6 @@ from account import *
 
 mailbox = MailBox("imap.gmail.com", 993)
 mailbox.login(EMAIL_ADDRESS, EMAIL_PASSWORD, initial_folder="INBOX")
-mailbox.logout()
 
 with MailBox("imap.gmail.com", 993).login(EMAIL_ADDRESS, EMAIL_PASSWORD, initial_folder="INBOX") as mailbox:
     # 전체 메일 다 가져오기
@@ -47,3 +46,5 @@ with MailBox("imap.gmail.com", 993).login(EMAIL_ADDRESS, EMAIL_PASSWORD, initial
     # 2가지 이상의 조건 중 하나라도 만족하는 메일 (또는 조건)
     for msg in mailbox.fetch('(OR ON 07-Nov-2020 SUBJECT "test mail")', reverse=True, limit=5): 
         print("[{}] {}".format(msg.from_, msg.subject))
+        
+mailbox.logout()
