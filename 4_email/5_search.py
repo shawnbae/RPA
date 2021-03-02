@@ -1,7 +1,7 @@
 from imap_tools import MailBox
 from account import *
 
-# 입력한 정보로 로그인하
+# 입력한 정보로 로그인하기
 mailbox = MailBox("imap.gmail.com", 993)
 mailbox.login(EMAIL_ADDRESS, EMAIL_PASSWORD, initial_folder="INBOX")
 
