@@ -1,7 +1,7 @@
 import time
 from selenium import webdriver
 
-browser = webdriver.Chrome()
+browser = webdriver.Chrome('c:/chromedriver.exe')
 
 browser.get('https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_input_type_radio')
 
