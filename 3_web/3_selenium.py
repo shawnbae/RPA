@@ -54,13 +54,13 @@ browser.get('http://daum.net')
 elem = browser.find_element_by_name('q')
 
 # 글자 입력
-elem.send_keys("나도코딩")
+elem.send_keys("예시")
 
 # 글자 지우기
 elem.clear()
 
 # 글자 입력하기
-elem.send_keys("나도코딩")
+elem.send_keys("예시")
 
 # 검색 버튼 찾기
 elem = browser.find_element_by_xpath('//*[@id="daumSearch"]/fieldset/div/div/button[2]')
