@@ -32,7 +32,7 @@ browser.back()
 elem = browser.find_element_by_id('query')
 
 # 글자 입력하기
-elem.send_keys('나도코딩')
+elem.send_keys('예')
 
 # enter 치기
 from selenium.webdriver.common.keys import Keys
