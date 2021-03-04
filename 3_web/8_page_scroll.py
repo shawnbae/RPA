@@ -22,7 +22,7 @@ browser.execute_script('window.scrollTo(0, 1080)') # 1920 * 1080 (모니터 해�
 browser.execute_script('window.scrollTo(0, 2080)')
 
 # 화면 가장 아래로 스크롤 내리기
-# browser.execute_script('window.scrollTo(0, document.body.scrollHeight)')
+browser.execute_script('window.scrollTo(0, document.body.scrollHeight)')
 
 
 # 동적 페이지에 대해서 마지막까지 스크롤 반복 수행
