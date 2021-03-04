@@ -2,7 +2,7 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-browser = webdriver.Chrome()
+browser = webdriver.Chrome("c:/chromedriver.exe")
 browser.maximize_window()
 
 browser.get('https://shopping.naver.com/home/p/index.nhn')
@@ -18,8 +18,8 @@ elem.send_keys(Keys.ENTER) # 검색 버튼 클릭을 위해 Enter 처리
 # 스크롤
 # 지정한 위치로 스크롤 내리기
 # 모니터 (해상도) 높이인 1080 위치로 스크롤 내리기
-# browser.execute_script('window.scrollTo(0, 1080)') # 1920 * 1080 (모니터 해상도)
-# browser.execute_script('window.scrollTo(0, 2080)')
+browser.execute_script('window.scrollTo(0, 1080)') # 1920 * 1080 (모니터 해상도)
+browser.execute_script('window.scrollTo(0, 2080)')
 
 # 화면 가장 아래로 스크롤 내리기
 # browser.execute_script('window.scrollTo(0, document.body.scrollHeight)')
