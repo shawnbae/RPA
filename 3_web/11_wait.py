@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-browser = webdriver.Chrome()
+browser = webdriver.Chrome("c:/chromedriver.exe")
 browser.maximize_window()
 browser.get('https://flight.naver.com/flights/')
 
