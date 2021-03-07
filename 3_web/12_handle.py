@@ -1,7 +1,7 @@
 import time
 from selenium import webdriver
 
-browser = webdriver.Chrome()
+browser = webdriver.Chrome("c:")
 browser.maximize_window()
 
 browser.get('https://www.w3schools.com/tags/att_input_type_radio.asp')
