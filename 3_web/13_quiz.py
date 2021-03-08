@@ -16,7 +16,7 @@
 import time
 from selenium import webdriver
 
-browser = webdriver.Chrome("c:/chromedriver")
+browser = webdriver.Chrome("c:/chromedriver.exe")
 browser.maximize_window()
 
 # 1. https://www.w3schools.com 접속 (URL 은 구글에서 w3schools 검색)
