@@ -38,7 +38,7 @@ browser.find_element_by_link_text('Contact Form').click()
 browser.find_element_by_xpath('//*[@id="leftmenuinnerinner"]/a[text()="Contact Form"]').click() 
 
 # 일부 텍스트 비교하는 방법
-#browser.find_element_by_xpath('//*[@id="leftmenuinnerinner"]/a[contains(text(), "Contact")]').click()
+browser.find_element_by_xpath('//*[@id="leftmenuinnerinner"]/a[contains(text(), "Contact")]').click()
 
 # 5. 입력란에 아래 값 입력
 #   First Name : 나도
