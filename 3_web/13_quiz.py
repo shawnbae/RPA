@@ -32,7 +32,7 @@ browser.find_element_by_xpath('//*[@id="topnav"]/div/div[1]/a[10]').click()
 browser.find_element_by_xpath('//*[@id="leftmenuinnerinner"]/a[116]').click()
 
 # 링크 텍스트로 비교 > Contact Form 이라는 2개 이상의 링크 텍스트가 있는 경우 실패
-#browser.find_element_by_link_text('Contact Form').click() 
+browser.find_element_by_link_text('Contact Form').click() 
 
 # 가장 좋은 방법 (텍스트 전체 일치 여부 비교)
 browser.find_element_by_xpath('//*[@id="leftmenuinnerinner"]/a[text()="Contact Form"]').click() 
