@@ -4,8 +4,8 @@ from account import *
 mailbox = MailBox("imap.gmail.com", 993)
 mailbox.login(EMAIL_ADDRESS, EMAIL_PASSWORD, initial_folder="INBOX")
 
-# limit : 최대 메일 갯수
-# reverse : True 일 경우 최근 메일부터, False 일 경우 과거 메일부터
+# limit: 최대 메일 갯수
+# reverse: True 일 경우 최근 메일부터, False 일 경우 과거 메일부터
 for msg in mailbox.fetch(limit=1, reverse=True):
     print("제목", msg.subject)
     print("발신자", msg.from_)
