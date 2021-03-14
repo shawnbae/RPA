@@ -23,7 +23,7 @@ for msg in mailbox.fetch(limit=1, reverse=True):
         print("타입", att.content_type)
         print("크기", att.size)
 
-        # 파일 다운로드
+        # 파일 다운로드하 
         with open("download_" + att.filename, "wb") as f:
             f.write(att.payload)
             print("첨부 파일 {} 다운로드 완료".format(att.filename))
