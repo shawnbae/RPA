@@ -17,7 +17,7 @@ for msg in mailbox.fetch(limit=1, reverse=True):
     print("HTML 메시지", msg.html)
     print("=" * 100)
 
-    # 첨부 파일
+    # 첨부 파일 다
     for att in msg.attachments:
         print("첨부파일 이름", att.filename)
         print("타입", att.content_type)
