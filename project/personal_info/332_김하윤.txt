@@ -1,0 +1,5 @@
+name : ±Ë«œ¿±
+age : 63
+e-mail : 7h0
+telephone : 010-3363-7333
+sex : male

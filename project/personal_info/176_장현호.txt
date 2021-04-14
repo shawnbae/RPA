@@ -1,0 +1,5 @@
+name : ÀåÇöÈ£
+age : 66
+e-mail : rb5
+telephone : 010-3366-8633
+sex : male

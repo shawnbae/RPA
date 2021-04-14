@@ -1,0 +1,5 @@
+name : юс©╧аЬ
+age : 58
+e-mail : 3fg
+telephone : 010-3358-2733
+sex : male

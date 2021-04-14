@@ -1,0 +1,5 @@
+name : ฑ่ว๖มุ
+age : 47
+e-mail : cmr
+telephone : 010-0047-1000
+sex : male

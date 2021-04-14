@@ -1,0 +1,5 @@
+name : ÀÌÁöÀ±
+age : 67
+e-mail : 3nz
+telephone : 010-9367-8393
+sex : male

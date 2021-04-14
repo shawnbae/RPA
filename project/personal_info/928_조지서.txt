@@ -1,0 +1,5 @@
+name : Á¶Áö¼­
+age : 02
+e-mail : w42
+telephone : 010-4002-4040
+sex : male

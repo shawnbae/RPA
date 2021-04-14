@@ -1,0 +1,5 @@
+name : À±ÁöÀº
+age : 14
+e-mail : hx9
+telephone : 010-3314-5033
+sex : male

@@ -1,0 +1,5 @@
+name : À±ÁöÈÄ
+age : 16
+e-mail : yah
+telephone : 010-3316-3033
+sex : male

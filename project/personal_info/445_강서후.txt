@@ -1,0 +1,5 @@
+name : °­¼­ÈÄ
+age : 12
+e-mail : 4ba
+telephone : 010-3312-5933
+sex : female

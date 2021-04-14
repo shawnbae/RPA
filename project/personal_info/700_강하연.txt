@@ -1,0 +1,5 @@
+name : °­ÇÏ¿¬
+age : 27
+e-mail : x17
+telephone : 010-9327-9693
+sex : female

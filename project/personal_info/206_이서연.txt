@@ -1,0 +1,5 @@
+name : ¿Ãº≠ø¨
+age : 43
+e-mail : x29
+telephone : 010-3343-4133
+sex : female

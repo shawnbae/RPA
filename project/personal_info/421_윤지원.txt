@@ -1,0 +1,5 @@
+name : À±Áö¿ø
+age : 25
+e-mail : f78
+telephone : 010-3325-1533
+sex : female

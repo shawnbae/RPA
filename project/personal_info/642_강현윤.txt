@@ -1,0 +1,5 @@
+name : °­ÇöÀ±
+age : 52
+e-mail : juy
+telephone : 010-8652-0586
+sex : male

@@ -1,0 +1,5 @@
+name : а╓го╬ф
+age : 55
+e-mail : 9qm
+telephone : 010-3355-1033
+sex : male

@@ -1,0 +1,5 @@
+name : а╤гою╠
+age : 97
+e-mail : 3k7
+telephone : 010-3297-5132
+sex : female

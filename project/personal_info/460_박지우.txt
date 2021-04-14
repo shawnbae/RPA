@@ -1,0 +1,5 @@
+name : ¹ÚÁö¿ì
+age : 22
+e-mail : 6tn
+telephone : 010-3322-8433
+sex : male

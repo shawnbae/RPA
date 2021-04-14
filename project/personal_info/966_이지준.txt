@@ -1,0 +1,5 @@
+name : ภฬม๖มุ
+age : 76
+e-mail : vw3
+telephone : 010-5376-6853
+sex : male

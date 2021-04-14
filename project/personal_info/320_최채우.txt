@@ -1,0 +1,5 @@
+name : √÷√§øÏ
+age : 67
+e-mail : q8e
+telephone : 010-3367-5433
+sex : female

@@ -1,0 +1,5 @@
+name : а╤гохё
+age : 72
+e-mail : b9n
+telephone : 010-3372-9533
+sex : male

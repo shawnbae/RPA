@@ -1,0 +1,5 @@
+name : ¿Ã¿±¿±
+age : 35
+e-mail : xoo
+telephone : 010-6335-2563
+sex : female

@@ -1,0 +1,5 @@
+name : ฑ่ว๖มุ
+age : 62
+e-mail : w9c
+telephone : 010-9362-1193
+sex : male

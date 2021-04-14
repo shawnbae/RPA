@@ -1,0 +1,5 @@
+name : Á¶À±¿ì
+age : 72
+e-mail : s4o
+telephone : 010-8672-4686
+sex : male

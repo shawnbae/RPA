@@ -1,0 +1,5 @@
+name : √÷¿±ø¨
+age : 33
+e-mail : lmb
+telephone : 010-3333-3233
+sex : female

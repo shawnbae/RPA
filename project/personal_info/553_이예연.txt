@@ -1,0 +1,5 @@
+name : ÀÌ¿¹¿¬
+age : 14
+e-mail : 286
+telephone : 010-3314-5733
+sex : female

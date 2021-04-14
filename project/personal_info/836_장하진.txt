@@ -1,0 +1,5 @@
+name : ÀåÇÏÁø
+age : 54
+e-mail : 84u
+telephone : 010-0054-3800
+sex : male

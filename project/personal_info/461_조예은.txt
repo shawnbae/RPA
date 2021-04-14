@@ -1,0 +1,5 @@
+name : Á¶¿¹Àº
+age : 35
+e-mail : yku
+telephone : 010-5335-5853
+sex : male

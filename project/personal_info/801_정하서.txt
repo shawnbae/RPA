@@ -1,0 +1,5 @@
+name : Á¤ÇÏ¼­
+age : 72
+e-mail : nip
+telephone : 010-9372-6293
+sex : male

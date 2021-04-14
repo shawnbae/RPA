@@ -1,0 +1,5 @@
+name : ¿Ãº≠¡ÿ
+age : 03
+e-mail : 3gy
+telephone : 010-8703-3687
+sex : male

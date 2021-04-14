@@ -1,0 +1,5 @@
+name : ÃÖÁö¿¬
+age : 18
+e-mail : 88t
+telephone : 010-0018-4400
+sex : female

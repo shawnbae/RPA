@@ -1,0 +1,5 @@
+name : ¿”¿±¡ÿ
+age : 58
+e-mail : un9
+telephone : 010-3358-2033
+sex : female

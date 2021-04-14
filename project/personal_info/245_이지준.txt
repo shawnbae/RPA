@@ -1,0 +1,5 @@
+name : ภฬม๖มุ
+age : 33
+e-mail : ojs
+telephone : 010-3333-1433
+sex : male

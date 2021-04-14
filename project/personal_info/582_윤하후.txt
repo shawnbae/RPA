@@ -1,0 +1,5 @@
+name : ю╠гохд
+age : 35
+e-mail : 09t
+telephone : 010-3335-0733
+sex : male

@@ -1,0 +1,5 @@
+name : ¹ÚÇö¿ø
+age : 88
+e-mail : hvz
+telephone : 010-3388-0933
+sex : female

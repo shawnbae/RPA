@@ -1,0 +1,5 @@
+name : ÀÌÇö¿ø
+age : 28
+e-mail : bgo
+telephone : 010-3328-8533
+sex : female

@@ -1,0 +1,5 @@
+name : ÀåÁö¾Æ
+age : 34
+e-mail : gfe
+telephone : 010-1334-7613
+sex : male

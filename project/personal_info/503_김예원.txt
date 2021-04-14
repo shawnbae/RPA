@@ -1,0 +1,5 @@
+name : ±è¿¹¿ø
+age : 63
+e-mail : 6h1
+telephone : 010-3336-6433
+sex : male

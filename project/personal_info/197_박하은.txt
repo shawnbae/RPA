@@ -1,0 +1,5 @@
+name : ╧згою╨
+age : 24
+e-mail : 6mm
+telephone : 010-3324-2433
+sex : female

@@ -1,0 +1,5 @@
+name : юлаЖ©Ь
+age : 22
+e-mail : fzj
+telephone : 010-6334-0763
+sex : male

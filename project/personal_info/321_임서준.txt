@@ -1,0 +1,5 @@
+name : ¿”º≠¡ÿ
+age : 64
+e-mail : jn9
+telephone : 010-3364-5533
+sex : male

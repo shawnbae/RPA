@@ -1,0 +1,5 @@
+name : ±èÀ±Áø
+age : 16
+e-mail : gc2
+telephone : 010-0016-5700
+sex : male

@@ -1,0 +1,5 @@
+name : ¿”«œº≠
+age : 78
+e-mail : z3f
+telephone : 010-3278-5432
+sex : female

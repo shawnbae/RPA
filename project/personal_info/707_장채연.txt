@@ -1,0 +1,5 @@
+name : ¿Â√§ø¨
+age : 45
+e-mail : ycp
+telephone : 010-9545-0895
+sex : female

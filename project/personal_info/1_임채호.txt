@@ -1,0 +1,5 @@
+name : ¿”√§»£
+age : 78
+e-mail : 7cu
+telephone : 010-3378-8733
+sex : female

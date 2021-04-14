@@ -1,0 +1,5 @@
+name : ¡§¡÷¡ÿ
+age : 46
+e-mail : 9sq
+telephone : 010-5346-0353
+sex : male

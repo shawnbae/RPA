@@ -1,0 +1,5 @@
+name : ¿Ã√§ø¨
+age : 32
+e-mail : qkq
+telephone : 010-0332-9703
+sex : male

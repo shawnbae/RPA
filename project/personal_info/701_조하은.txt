@@ -1,0 +1,5 @@
+name : а╤гою╨
+age : 64
+e-mail : nuy
+telephone : 010-9364-9893
+sex : female

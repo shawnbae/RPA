@@ -1,0 +1,5 @@
+name : ¹Ú¼­Àº
+age : 32
+e-mail : f3b
+telephone : 010-2332-8623
+sex : female

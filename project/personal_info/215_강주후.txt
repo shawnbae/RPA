@@ -1,0 +1,5 @@
+name : °­ÁÖÈÄ
+age : 23
+e-mail : 33v
+telephone : 010-3323-5933
+sex : male

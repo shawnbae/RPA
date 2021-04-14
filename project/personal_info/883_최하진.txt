@@ -1,0 +1,5 @@
+name : ÃÖÇÏÁø
+age : 32
+e-mail : g7k
+telephone : 010-0032-2800
+sex : male

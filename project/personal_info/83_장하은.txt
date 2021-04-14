@@ -1,0 +1,5 @@
+name : ¿Â«œ¿∫
+age : 17
+e-mail : 5le
+telephone : 010-3317-2433
+sex : female

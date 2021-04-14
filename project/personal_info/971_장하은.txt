@@ -1,0 +1,5 @@
+name : ¿Â«œ¿∫
+age : 79
+e-mail : qa8
+telephone : 010-5379-7753
+sex : male

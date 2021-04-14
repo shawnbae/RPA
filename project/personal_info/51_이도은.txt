@@ -1,0 +1,5 @@
+name : ¿Ãµµ¿∫
+age : 31
+e-mail : 4ej
+telephone : 010-3331-7133
+sex : male

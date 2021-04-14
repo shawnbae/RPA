@@ -1,0 +1,5 @@
+name : ю╠гою╠
+age : 15
+e-mail : 89q
+telephone : 010-0015-9200
+sex : male

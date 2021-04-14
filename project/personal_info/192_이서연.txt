@@ -1,0 +1,5 @@
+name : ¿Ãº≠ø¨
+age : 17
+e-mail : eyc
+telephone : 010-3317-1433
+sex : male

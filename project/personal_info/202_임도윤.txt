@@ -1,0 +1,5 @@
+name : ¿”µµ¿±
+age : 34
+e-mail : 5se
+telephone : 010-3334-3433
+sex : female

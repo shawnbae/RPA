@@ -1,0 +1,5 @@
+name : ╧заЖ╬ф
+age : 93
+e-mail : ifw
+telephone : 010-9993-7799
+sex : male

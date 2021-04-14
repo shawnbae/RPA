@@ -1,0 +1,5 @@
+name : юсго╬ф
+age : 42
+e-mail : vub
+telephone : 010-3342-7333
+sex : male

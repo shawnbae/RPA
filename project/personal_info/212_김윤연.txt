@@ -1,0 +1,5 @@
+name : ±Ë¿±ø¨
+age : 14
+e-mail : ket
+telephone : 010-3368-5333
+sex : male

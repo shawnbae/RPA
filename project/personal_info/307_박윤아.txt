@@ -1,0 +1,5 @@
+name : ¹ÚÀ±¾Æ
+age : 42
+e-mail : kyr
+telephone : 010-3342-3033
+sex : male

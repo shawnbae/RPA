@@ -1,0 +1,5 @@
+name : юсю╠ю╠
+age : 94
+e-mail : y4a
+telephone : 010-3294-6732
+sex : female

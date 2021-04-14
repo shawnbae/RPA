@@ -1,0 +1,5 @@
+name : √÷√§ø¨
+age : 33
+e-mail : axz
+telephone : 010-3333-3333
+sex : male

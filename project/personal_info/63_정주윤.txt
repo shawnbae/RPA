@@ -1,0 +1,5 @@
+name : ¡§¡÷¿±
+age : 65
+e-mail : faq
+telephone : 010-3365-9033
+sex : male

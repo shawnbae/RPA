@@ -1,0 +1,5 @@
+name : юс╧ню╨
+age : 68
+e-mail : 4b2
+telephone : 010-7334-4373
+sex : male

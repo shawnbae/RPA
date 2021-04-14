@@ -1,0 +1,5 @@
+name : À±¿¹¾Æ
+age : 33
+e-mail : fm1
+telephone : 010-3333-0233
+sex : male

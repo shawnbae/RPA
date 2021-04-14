@@ -1,0 +1,5 @@
+name : ╠Хгохд
+age : 74
+e-mail : ib6
+telephone : 010-3374-3733
+sex : male

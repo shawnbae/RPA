@@ -1,0 +1,5 @@
+name : Á¤ÇÏ¿¬
+age : 42
+e-mail : 5u7
+telephone : 010-9342-2993
+sex : female

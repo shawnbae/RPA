@@ -1,0 +1,5 @@
+name : ¿Âµµ¿±
+age : 02
+e-mail : 9ec
+telephone : 010-3302-8133
+sex : male

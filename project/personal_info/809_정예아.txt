@@ -1,0 +1,5 @@
+name : Á¤¿¹¾Æ
+age : 89
+e-mail : m4e
+telephone : 010-9389-7893
+sex : male

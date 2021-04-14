@@ -1,0 +1,5 @@
+name : Á¶¿¹¾Æ
+age : 27
+e-mail : bhe
+telephone : 010-3327-7433
+sex : male

@@ -1,0 +1,5 @@
+name : °­Çö¿ì
+age : 15
+e-mail : iii
+telephone : 010-8815-5688
+sex : male

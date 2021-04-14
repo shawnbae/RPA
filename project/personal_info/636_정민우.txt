@@ -1,0 +1,5 @@
+name : Á¤¹Î¿ì
+age : 73
+e-mail : tmr
+telephone : 010-6873-8968
+sex : male

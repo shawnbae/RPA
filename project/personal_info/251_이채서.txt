@@ -1,0 +1,5 @@
+name : ¿Ã√§º≠
+age : 27
+e-mail : cds
+telephone : 010-3327-2633
+sex : male

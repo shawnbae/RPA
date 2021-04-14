@@ -1,0 +1,5 @@
+name : À±ÁöÈÄ
+age : 23
+e-mail : msd
+telephone : 010-3323-8233
+sex : male

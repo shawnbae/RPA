@@ -1,0 +1,5 @@
+name : ±Ë«œ¡ÿ
+age : 42
+e-mail : 1vo
+telephone : 010-0042-7100
+sex : male

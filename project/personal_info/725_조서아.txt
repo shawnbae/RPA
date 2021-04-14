@@ -1,0 +1,5 @@
+name : Á¶¼­¾Æ
+age : 45
+e-mail : tkc
+telephone : 010-9345-3493
+sex : female

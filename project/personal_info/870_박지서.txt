@@ -1,0 +1,5 @@
+name : ¹ÚÁö¼­
+age : 03
+e-mail : gs8
+telephone : 010-5003-3050
+sex : female

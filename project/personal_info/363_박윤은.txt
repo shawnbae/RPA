@@ -1,0 +1,5 @@
+name : ¹ÚÀ±Àº
+age : 49
+e-mail : n7u
+telephone : 010-3362-2733
+sex : male

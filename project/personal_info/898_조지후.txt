@@ -1,0 +1,5 @@
+name : Á¶ÁöÈÄ
+age : 25
+e-mail : c1m
+telephone : 010-0025-5300
+sex : male

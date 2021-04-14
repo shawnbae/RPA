@@ -1,0 +1,5 @@
+name : °­µµ¿¬
+age : 45
+e-mail : 5ub
+telephone : 010-3345-6333
+sex : male

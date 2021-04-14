@@ -1,0 +1,5 @@
+name : ±Ë¡÷¿±
+age : 25
+e-mail : 00g
+telephone : 010-9325-4293
+sex : male

@@ -1,0 +1,5 @@
+name : À±ÇöÀº
+age : 15
+e-mail : 7a8
+telephone : 010-5002-4250
+sex : female

@@ -1,0 +1,5 @@
+name : ÀåÃ¤ÈÄ
+age : 12
+e-mail : 4lo
+telephone : 010-3312-7933
+sex : male

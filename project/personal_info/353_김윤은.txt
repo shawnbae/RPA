@@ -1,0 +1,5 @@
+name : ±Ë¿±¿∫
+age : 65
+e-mail : mne
+telephone : 010-3365-1033
+sex : female

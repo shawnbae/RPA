@@ -1,0 +1,5 @@
+name : Á¶Ã¤Áø
+age : 37
+e-mail : dic
+telephone : 010-3337-1433
+sex : male

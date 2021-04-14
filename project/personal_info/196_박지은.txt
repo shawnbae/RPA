@@ -1,0 +1,5 @@
+name : ¹ÚÁöÀº
+age : 19
+e-mail : poi
+telephone : 010-3319-2233
+sex : female

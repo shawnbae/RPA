@@ -1,0 +1,5 @@
+name : À±¿¹¿¬
+age : 37
+e-mail : eg0
+telephone : 010-3337-0133
+sex : male

@@ -1,0 +1,5 @@
+name : À±¿¹ÈÄ
+age : 38
+e-mail : s74
+telephone : 010-3338-2043
+sex : male

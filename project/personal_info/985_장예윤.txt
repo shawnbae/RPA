@@ -1,0 +1,5 @@
+name : Àå¿¹À±
+age : 45
+e-mail : 77f
+telephone : 010-5345-0153
+sex : male

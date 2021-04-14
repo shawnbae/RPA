@@ -1,0 +1,5 @@
+name : ÀÌÃ¤Áø
+age : 34
+e-mail : 1bl
+telephone : 010-9334-8493
+sex : male

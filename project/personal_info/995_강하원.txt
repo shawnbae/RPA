@@ -1,0 +1,5 @@
+name : °­ÇÏ¿ø
+age : 73
+e-mail : lo0
+telephone : 010-5973-2659
+sex : male

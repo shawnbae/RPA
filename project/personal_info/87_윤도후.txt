@@ -1,0 +1,5 @@
+name : À±µµÈÄ
+age : 96
+e-mail : ne7
+telephone : 010-3296-3032
+sex : male

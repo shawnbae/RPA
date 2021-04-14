@@ -1,0 +1,5 @@
+name : Á¶¿¹¿¬
+age : 51
+e-mail : sa5
+telephone : 010-3351-5333
+sex : male

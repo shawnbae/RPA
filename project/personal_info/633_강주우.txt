@@ -1,0 +1,5 @@
+name : ╟╜аж©Л
+age : 67
+e-mail : cnz
+telephone : 010-2867-8928
+sex : male

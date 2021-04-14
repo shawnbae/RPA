@@ -1,0 +1,5 @@
+name : ¿Âº≠¿∫
+age : 12
+e-mail : efd
+telephone : 010-9412-7594
+sex : male

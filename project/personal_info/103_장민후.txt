@@ -1,0 +1,5 @@
+name : Àå¹ÎÈÄ
+age : 98
+e-mail : miu
+telephone : 010-3298-5732
+sex : female

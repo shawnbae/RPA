@@ -1,0 +1,5 @@
+name : ÀÌ¹Î¿ì
+age : 15
+e-mail : p0o
+telephone : 010-3315-2133
+sex : female

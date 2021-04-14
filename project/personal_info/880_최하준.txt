@@ -1,0 +1,5 @@
+name : √÷«œ¡ÿ
+age : 47
+e-mail : mky
+telephone : 010-0047-2300
+sex : female

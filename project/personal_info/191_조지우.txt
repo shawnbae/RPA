@@ -1,0 +1,5 @@
+name : Á¶Áö¿ì
+age : 23
+e-mail : 3u9
+telephone : 010-3323-1233
+sex : male

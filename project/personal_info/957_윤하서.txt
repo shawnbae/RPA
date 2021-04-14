@@ -1,0 +1,5 @@
+name : À±ÇÏ¼­
+age : 01
+e-mail : 89d
+telephone : 010-2001-4520
+sex : male

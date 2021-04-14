@@ -1,0 +1,5 @@
+name : ¿Â¿±¿±
+age : 55
+e-mail : cc9
+telephone : 010-3355-8833
+sex : male

@@ -1,0 +1,5 @@
+name : ±èÁö¿¬
+age : 32
+e-mail : ls2
+telephone : 010-1332-7313
+sex : female

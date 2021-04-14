@@ -1,7 +1,6 @@
-#-*-coding:utf-8
+#-*-coding:euc-kr
 """
-
-Author : Byunghyun Ban
+Author : Soohan Bae
 Github : https://github.com/shawnbae
 Last Modification : 2021.04.14
 """
@@ -16,7 +15,7 @@ print("Process Start.")
 start_time = time.time()
 
 # 생성할 개인정보 파일 개수를 정의하기
-NUM_SAMPLEs = 1000
+NUM_SAMPLES = 1000
 
 # 이메일 생성에 사용할 샘플 글자들을 정의하기
 alphabet_samples = "abcdefghijklmnopqrstuvwxyz1234567890"
@@ -46,7 +45,7 @@ def random_name():
 os.mkdir("personal_info")
 
 # 개인정보 파일을 자동으로 생성하는 부분
-for i in range(100):
+for i in range(NUM_SAMPLES):
   name = random_name()
   
   # 결과물 파일의 이름을 정의

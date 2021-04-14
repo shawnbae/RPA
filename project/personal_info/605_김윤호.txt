@@ -1,0 +1,5 @@
+name : ±Ë¿±»£
+age : 37
+e-mail : jso
+telephone : 010-3337-4633
+sex : female

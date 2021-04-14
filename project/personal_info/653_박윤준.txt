@@ -1,0 +1,5 @@
+name : ¹ÚÀ±ÁØ
+age : 13
+e-mail : n2w
+telephone : 010-8713-2387
+sex : male

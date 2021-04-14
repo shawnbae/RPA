@@ -1,0 +1,5 @@
+name : °­Ã¤È£
+age : 37
+e-mail : jma
+telephone : 010-0337-0703
+sex : male

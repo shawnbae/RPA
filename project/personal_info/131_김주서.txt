@@ -1,0 +1,5 @@
+name : ±Ë¡÷º≠
+age : 65
+e-mail : 5dy
+telephone : 010-3365-0533
+sex : male

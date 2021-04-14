@@ -1,0 +1,5 @@
+name : °­¹Î¾Æ
+age : 16
+e-mail : 7a1
+telephone : 010-0016-8000
+sex : female

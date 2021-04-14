@@ -1,0 +1,5 @@
+name : ╧зажаЬ
+age : 32
+e-mail : r89
+telephone : 010-3332-2333
+sex : female

@@ -1,0 +1,5 @@
+name : ÀÌÁö¿ì
+age : 15
+e-mail : 7l0
+telephone : 010-3315-5033
+sex : male

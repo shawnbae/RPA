@@ -1,0 +1,5 @@
+name : ¿Ã¡÷¿±
+age : 02
+e-mail : 76w
+telephone : 010-2002-4320
+sex : male

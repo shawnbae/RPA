@@ -1,0 +1,5 @@
+name : ÀÌ¿¹¿ì
+age : 02
+e-mail : 04g
+telephone : 010-2002-2820
+sex : female

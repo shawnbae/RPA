@@ -1,0 +1,5 @@
+name : а╓гою╠
+age : 33
+e-mail : 65b
+telephone : 010-5933-0659
+sex : female

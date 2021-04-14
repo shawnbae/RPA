@@ -1,0 +1,5 @@
+name : Á¤Çö¾Æ
+age : 98
+e-mail : gjz
+telephone : 010-3298-3232
+sex : male

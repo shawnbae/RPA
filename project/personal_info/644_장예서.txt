@@ -1,0 +1,5 @@
+name : Àå¿¹¼­
+age : 55
+e-mail : 9jt
+telephone : 010-8655-0886
+sex : male

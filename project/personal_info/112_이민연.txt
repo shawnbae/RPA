@@ -1,0 +1,5 @@
+name : ÀÌ¹Î¿¬
+age : 26
+e-mail : vt9
+telephone : 010-3326-7133
+sex : female

@@ -1,0 +1,5 @@
+name : ¹Ú¿¹¾Æ
+age : 79
+e-mail : 38e
+telephone : 010-9379-9093
+sex : female

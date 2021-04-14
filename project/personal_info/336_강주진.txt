@@ -1,0 +1,5 @@
+name : ╟╜ажаЬ
+age : 56
+e-mail : ngz
+telephone : 010-3356-8033
+sex : female

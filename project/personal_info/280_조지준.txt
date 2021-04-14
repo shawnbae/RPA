@@ -1,0 +1,5 @@
+name : Á¶ÁöÁØ
+age : 23
+e-mail : ruj
+telephone : 010-3323-8033
+sex : female

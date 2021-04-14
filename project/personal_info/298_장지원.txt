@@ -1,0 +1,5 @@
+name : ÀåÁö¿ø
+age : 62
+e-mail : 11p
+telephone : 010-3362-1233
+sex : female

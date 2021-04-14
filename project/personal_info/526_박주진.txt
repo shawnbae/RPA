@@ -1,0 +1,5 @@
+name : ╧зажаЬ
+age : 45
+e-mail : re4
+telephone : 010-3345-1033
+sex : female

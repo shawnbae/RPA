@@ -1,0 +1,5 @@
+name : ¿Ãº≠»£
+age : 32
+e-mail : j8h
+telephone : 010-0332-8703
+sex : male

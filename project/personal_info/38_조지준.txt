@@ -1,0 +1,5 @@
+name : Á¶ÁöÁØ
+age : 34
+e-mail : eml
+telephone : 010-9336-8493
+sex : male

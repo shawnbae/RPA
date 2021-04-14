@@ -1,0 +1,5 @@
+name : Á¶Çö¼­
+age : 47
+e-mail : bbn
+telephone : 010-3347-9733
+sex : male

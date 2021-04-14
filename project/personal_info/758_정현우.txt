@@ -1,0 +1,5 @@
+name : Á¤Çö¿ì
+age : 85
+e-mail : yl3
+telephone : 010-9385-8893
+sex : male

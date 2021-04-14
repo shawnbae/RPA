@@ -1,0 +1,5 @@
+name : À±µµ¿ì
+age : 44
+e-mail : 1ui
+telephone : 010-3344-8533
+sex : male

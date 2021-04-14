@@ -1,0 +1,5 @@
+name : ¹ÚÇö¿ø
+age : 63
+e-mail : bz9
+telephone : 010-5363-7553
+sex : female

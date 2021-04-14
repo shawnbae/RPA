@@ -1,0 +1,5 @@
+name : ¿Ãº≠¿±
+age : 88
+e-mail : 61j
+telephone : 010-9388-7193
+sex : female

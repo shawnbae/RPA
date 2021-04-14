@@ -1,0 +1,5 @@
+name : Á¶µµ¿¬
+age : 36
+e-mail : 67q
+telephone : 010-7936-1279
+sex : male

@@ -1,0 +1,5 @@
+name : ±Ë√§º≠
+age : 54
+e-mail : st7
+telephone : 010-3354-1433
+sex : male

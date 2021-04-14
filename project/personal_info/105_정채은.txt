@@ -1,0 +1,5 @@
+name : Á¤Ã¤Àº
+age : 02
+e-mail : bn1
+telephone : 010-3302-6033
+sex : female

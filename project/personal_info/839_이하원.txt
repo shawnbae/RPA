@@ -1,0 +1,5 @@
+name : юлго©Ь
+age : 96
+e-mail : 98k
+telephone : 010-9996-4499
+sex : male

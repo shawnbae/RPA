@@ -1,0 +1,5 @@
+name : ¿Âº≠¿∫
+age : 34
+e-mail : 67v
+telephone : 010-3334-2333
+sex : male

@@ -1,0 +1,5 @@
+name : ÀåÁÖ¿ø
+age : 28
+e-mail : fmu
+telephone : 010-3328-7333
+sex : male

@@ -1,0 +1,5 @@
+name : �弭ȣ
+age : 48
+e-mail : nny
+telephone : 010-3348-2233
+sex : male

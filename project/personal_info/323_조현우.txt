@@ -1,0 +1,5 @@
+name : Á¶Çö¿ì
+age : 55
+e-mail : x1w
+telephone : 010-3345-5933
+sex : female

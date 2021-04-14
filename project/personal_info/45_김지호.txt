@@ -1,0 +1,5 @@
+name : ±èÁöÈ£
+age : 19
+e-mail : umq
+telephone : 010-3319-6233
+sex : male

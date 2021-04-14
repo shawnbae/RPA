@@ -1,0 +1,5 @@
+name : Á¤ÁöÀº
+age : 24
+e-mail : 4hk
+telephone : 010-3324-3533
+sex : male

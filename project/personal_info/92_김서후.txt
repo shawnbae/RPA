@@ -1,0 +1,5 @@
+name : ±è¼­ÈÄ
+age : 16
+e-mail : os5
+telephone : 010-3303-3933
+sex : female

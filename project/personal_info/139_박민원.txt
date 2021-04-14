@@ -1,0 +1,5 @@
+name : ¹Ú¹Î¿ø
+age : 42
+e-mail : jau
+telephone : 010-3342-1833
+sex : female

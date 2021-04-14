@@ -1,0 +1,5 @@
+name : Á¤Ã¤Àº
+age : 77
+e-mail : xdk
+telephone : 010-5977-3359
+sex : male

@@ -1,0 +1,5 @@
+name : Á¤µµ¿ì
+age : 13
+e-mail : up5
+telephone : 010-3313-4233
+sex : female

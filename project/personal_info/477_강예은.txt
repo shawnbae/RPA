@@ -1,0 +1,5 @@
+name : °­¿¹Àº
+age : 89
+e-mail : hrv
+telephone : 010-3389-1433
+sex : male

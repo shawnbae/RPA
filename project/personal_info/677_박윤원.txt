@@ -1,0 +1,5 @@
+name : ¹ÚÀ±¿ø
+age : 77
+e-mail : 3ff
+telephone : 010-8677-5986
+sex : male

@@ -1,0 +1,5 @@
+name : À±Ã¤ÈÄ
+age : 43
+e-mail : rqg
+telephone : 010-3343-7433
+sex : male

@@ -1,0 +1,5 @@
+name : À±ÁöÈÄ
+age : 34
+e-mail : bbc
+telephone : 010-3334-5033
+sex : male

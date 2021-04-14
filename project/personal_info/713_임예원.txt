@@ -1,0 +1,5 @@
+name : юс©╧©Ь
+age : 42
+e-mail : dd2
+telephone : 010-9342-1693
+sex : female

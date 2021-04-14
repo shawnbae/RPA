@@ -1,0 +1,5 @@
+name : ¿Â«œ¿±
+age : 28
+e-mail : nxp
+telephone : 010-3332-1833
+sex : female

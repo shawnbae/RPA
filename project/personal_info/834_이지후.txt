@@ -1,0 +1,5 @@
+name : ÀÌÁöÈÄ
+age : 45
+e-mail : dqr
+telephone : 010-0745-2607
+sex : male

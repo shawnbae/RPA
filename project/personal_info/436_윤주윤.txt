@@ -1,0 +1,5 @@
+name : ¿±¡÷¿±
+age : 34
+e-mail : 7ws
+telephone : 010-3334-4233
+sex : female

@@ -1,0 +1,5 @@
+name : À±µµ¿¬
+age : 66
+e-mail : 5l9
+telephone : 010-3366-7333
+sex : male

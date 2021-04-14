@@ -1,0 +1,5 @@
+name : Á¶¼­¾Æ
+age : 28
+e-mail : rlj
+telephone : 010-9328-0093
+sex : female

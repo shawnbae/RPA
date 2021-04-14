@@ -1,0 +1,5 @@
+name : À±ÇöÀ±
+age : 28
+e-mail : rrr
+telephone : 010-3328-9233
+sex : male

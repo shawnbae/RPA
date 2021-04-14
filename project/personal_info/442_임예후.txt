@@ -1,0 +1,5 @@
+name : юс©╧хд
+age : 19
+e-mail : xpf
+telephone : 010-3323-5433
+sex : male

@@ -1,0 +1,5 @@
+name : Á¶µµ¿ì
+age : 42
+e-mail : ha8
+telephone : 010-0042-8900
+sex : male

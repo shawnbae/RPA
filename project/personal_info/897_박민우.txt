@@ -1,0 +1,5 @@
+name : ¹Ú¹Î¿ì
+age : 05
+e-mail : ccu
+telephone : 010-0005-5100
+sex : male

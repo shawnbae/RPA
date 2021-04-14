@@ -1,0 +1,5 @@
+name : ¡∂¡÷¿∫
+age : 45
+e-mail : s64
+telephone : 010-3345-7533
+sex : male

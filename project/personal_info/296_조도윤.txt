@@ -1,0 +1,5 @@
+name : Á¶µµÀ±
+age : 32
+e-mail : 4aj
+telephone : 010-3332-0833
+sex : male

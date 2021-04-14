@@ -1,0 +1,5 @@
+name : ฑ่ม๖มุ
+age : 36
+e-mail : ct9
+telephone : 010-3336-5833
+sex : male

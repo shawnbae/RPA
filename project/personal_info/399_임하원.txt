@@ -1,0 +1,5 @@
+name : юсго©Ь
+age : 33
+e-mail : nca
+telephone : 010-8233-.482
+sex : female

@@ -1,0 +1,5 @@
+name : ±èÇÏ¾Æ
+age : 66
+e-mail : ill
+telephone : 010-9366-0693
+sex : male

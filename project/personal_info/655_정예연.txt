@@ -1,0 +1,5 @@
+name : Á¤¿¹¿¬
+age : 87
+e-mail : qya
+telephone : 010-2687-.926
+sex : female

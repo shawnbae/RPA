@@ -1,0 +1,5 @@
+name : ¿”¡÷»£
+age : 32
+e-mail : b1z
+telephone : 010-3332-8533
+sex : male

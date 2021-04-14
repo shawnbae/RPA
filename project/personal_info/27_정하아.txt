@@ -1,0 +1,5 @@
+name : а╓го╬ф
+age : 25
+e-mail : gk9
+telephone : 010-3325-3033
+sex : female

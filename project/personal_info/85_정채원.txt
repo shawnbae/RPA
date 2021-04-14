@@ -1,0 +1,5 @@
+name : Á¤Ã¤¿ø
+age : 32
+e-mail : g4w
+telephone : 010-7332-9273
+sex : male

@@ -1,0 +1,5 @@
+name : Á¶Çö¿ì
+age : 34
+e-mail : utt
+telephone : 010-3334-5933
+sex : male

@@ -1,0 +1,5 @@
+name : ±è¿¹¿¬
+age : 26
+e-mail : xyi
+telephone : 010-3326-4633
+sex : female

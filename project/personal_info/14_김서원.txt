@@ -1,0 +1,5 @@
+name : ±è¼­¿ø
+age : 75
+e-mail : jsc
+telephone : 010-3375-0733
+sex : female

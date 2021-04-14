@@ -1,0 +1,5 @@
+name : °­¿¹À±
+age : 17
+e-mail : bek
+telephone : 010-0021-9500
+sex : male

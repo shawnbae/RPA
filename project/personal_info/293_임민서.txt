@@ -1,0 +1,5 @@
+name : ¿”πŒº≠
+age : 26
+e-mail : z35
+telephone : 010-3326-0333
+sex : female

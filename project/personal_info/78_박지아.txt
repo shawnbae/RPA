@@ -1,0 +1,5 @@
+name : ¹ÚÁö¾Æ
+age : 23
+e-mail : abe
+telephone : 010-3323-1533
+sex : female

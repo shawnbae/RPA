@@ -1,0 +1,5 @@
+name : а╓гою╠
+age : 15
+e-mail : cv0
+telephone : 010-0015-2600
+sex : female

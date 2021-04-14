@@ -1,0 +1,5 @@
+name : ¿”«œº≠
+age : 13
+e-mail : 2vu
+telephone : 010-3313-3133
+sex : male

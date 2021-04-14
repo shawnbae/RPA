@@ -1,0 +1,5 @@
+name : ¿Â√§øÏ
+age : 56
+e-mail : a7v
+telephone : 010-9356-8393
+sex : male

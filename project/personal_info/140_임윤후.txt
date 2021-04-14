@@ -1,0 +1,5 @@
+name : юсю╠хд
+age : 36
+e-mail : isi
+telephone : 010-0336-0203
+sex : male

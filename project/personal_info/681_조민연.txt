@@ -1,0 +1,5 @@
+name : Á¶¹Î¿¬
+age : 47
+e-mail : mz4
+telephone : 010-9347-6693
+sex : male

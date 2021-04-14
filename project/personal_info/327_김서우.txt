@@ -1,0 +1,5 @@
+name : ±è¼­¿ì
+age : 57
+e-mail : afm
+telephone : 010-3357-6533
+sex : female

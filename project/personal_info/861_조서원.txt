@@ -1,0 +1,5 @@
+name : Á¶¼­¿ø
+age : 06
+e-mail : ln3
+telephone : 010-0006-8800
+sex : male

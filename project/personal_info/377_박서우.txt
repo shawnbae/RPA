@@ -1,0 +1,5 @@
+name : ¹Ú¼­¿ì
+age : 33
+e-mail : 40x
+telephone : 010-5033-.450
+sex : male

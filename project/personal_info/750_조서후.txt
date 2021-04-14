@@ -1,0 +1,5 @@
+name : Á¶¼­ÈÄ
+age : 68
+e-mail : pjw
+telephone : 010-9368-7593
+sex : male

@@ -1,0 +1,5 @@
+name : ÀÌ¿¹¾Æ
+age : 25
+e-mail : fsu
+telephone : 010-3325-6633
+sex : female

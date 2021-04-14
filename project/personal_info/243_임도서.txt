@@ -1,0 +1,5 @@
+name : ¿”µµº≠
+age : 55
+e-mail : dag
+telephone : 010-3355-1133
+sex : female

@@ -1,0 +1,5 @@
+name : ¡§¡÷¿±
+age : 13
+e-mail : 2kn
+telephone : 010-3313-3533
+sex : male

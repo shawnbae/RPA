@@ -1,0 +1,5 @@
+name : ÀÌÇö¿¬
+age : 27
+e-mail : oxn
+telephone : 010-3327-4433
+sex : female

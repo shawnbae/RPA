@@ -1,0 +1,5 @@
+name : ÃÖÁöÀ±
+age : 25
+e-mail : quu
+telephone : 010-3325-6133
+sex : male

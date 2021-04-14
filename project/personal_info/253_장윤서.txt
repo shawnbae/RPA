@@ -1,0 +1,5 @@
+name : ¿Â¿±º≠
+age : 65
+e-mail : cm2
+telephone : 010-3365-2933
+sex : male
