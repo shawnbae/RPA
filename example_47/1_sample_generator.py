@@ -61,8 +61,11 @@ for i in range(NUM_SAMPLES):
   outfile.write("age : " + str(time.time())[-2:] + "\n")
   
   # 결과물 파일에 무작위로 생성된 이메일을 기재
-  outfile.write("e-mail : " + random_string(3) + "\n")
-  
+  outfile.write("e-mail : " + random_string(8) + "@naver.com\n")
+
+  # 결과물 파일에 무작위로 생성된 부서명을 기재합니다.
+  outfile.write("division : " + random_string(3) + "\n")
+    
   # 결과물 파일에 무작위로 생성된 핸드폰 번호를 기재
   outfile.write("telephone : 010-" + str(time.time())[-4:] + "-" + str(time.time())[-6:-2] + "\n")
   
