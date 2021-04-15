@@ -1,9 +1,4 @@
 #-*- coding:euc-kr -*-
-"""
-Author : Soohan Bae
-GitHub : https://github.com/shawnbae
-Last Modification : 2021.04.14
-"""
 import time
 import os
 

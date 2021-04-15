@@ -1,8 +1,3 @@
-"""
-Author : Soohan Bae
-GitHub : https://github.com/shawnbae
-Last Modification : 2021.04.14.
-"""
 import sys
 
 # 파일 이름을 입력받습니다.

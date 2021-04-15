@@ -1,9 +1,4 @@
 #-*-coding:utf-8
-"""
-Author : Soohan Bae
-GitHub : https://github.com/shawnbae
-Last Modification : 2021.04.15.
-"""
 import time
 import os
 import pyexcel as px
