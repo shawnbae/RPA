@@ -1,5 +1,0 @@
-name : юсаЖ©Ь
-age : 07
-e-mail : knk
-telephone : 010-0007-1100
-sex : male

@@ -1,5 +1,0 @@
-name : ÀÌµµÁø
-age : 32
-e-mail : 8h8
-telephone : 010-3332-8133
-sex : male

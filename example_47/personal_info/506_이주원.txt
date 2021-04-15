@@ -1,5 +1,0 @@
-name : юлаж©Ь
-age : 57
-e-mail : 5q9
-telephone : 010-3357-7233
-sex : female

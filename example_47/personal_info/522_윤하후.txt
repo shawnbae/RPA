@@ -1,5 +1,0 @@
-name : ю╠гохд
-age : 38
-e-mail : n7w
-telephone : 010-3338-0133
-sex : male

@@ -1,5 +1,0 @@
-name : ±Ë√§¿∫
-age : 78
-e-mail : o4v
-telephone : 010-9378-8793
-sex : female

@@ -1,5 +1,0 @@
-name : а╤го╬ф
-age : 05
-e-mail : 3o8
-telephone : 010-8005-3880
-sex : male

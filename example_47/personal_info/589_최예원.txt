@@ -1,5 +1,0 @@
-name : ÃÖ¿¹¿ø
-age : 16
-e-mail : 9ro
-telephone : 010-3316-1933
-sex : male

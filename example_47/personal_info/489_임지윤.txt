@@ -1,5 +1,0 @@
-name : юсаЖю╠
-age : 63
-e-mail : 6k9
-telephone : 010-3363-3633
-sex : male

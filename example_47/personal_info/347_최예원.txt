@@ -1,5 +1,0 @@
-name : ÃÖ¿¹¿ø
-age : 75
-e-mail : f58
-telephone : 010-3375-0033
-sex : female

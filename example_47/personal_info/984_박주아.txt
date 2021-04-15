@@ -1,5 +1,0 @@
-name : ╧заж╬ф
-age : 57
-e-mail : 90c
-telephone : 010-5357-0053
-sex : female

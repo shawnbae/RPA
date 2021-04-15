@@ -1,5 +1,0 @@
-name : Á¶µµÀº
-age : 37
-e-mail : lhm
-telephone : 010-3337-5033
-sex : male

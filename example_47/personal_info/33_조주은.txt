@@ -1,5 +1,0 @@
-name : ¡∂¡÷¿∫
-age : 23
-e-mail : rwq
-telephone : 010-3323-4033
-sex : male

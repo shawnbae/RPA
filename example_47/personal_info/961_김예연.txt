@@ -1,5 +1,0 @@
-name : ±è¿¹¿¬
-age : 51
-e-mail : oh6
-telephone : 010-5351-5953
-sex : female

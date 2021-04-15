@@ -1,5 +1,0 @@
-name : ¡∂πŒ¡ÿ
-age : 54
-e-mail : nha
-telephone : 010-3354-8733
-sex : male

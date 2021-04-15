@@ -1,5 +1,0 @@
-name : Á¶¹Î¼­
-age : 57
-e-mail : lg8
-telephone : 010-3357-7633
-sex : female

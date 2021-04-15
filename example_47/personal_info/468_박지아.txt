@@ -1,5 +1,0 @@
-name : ¹ÚÁö¾Æ
-age : 36
-e-mail : n6b
-telephone : 010-3336-9833
-sex : female

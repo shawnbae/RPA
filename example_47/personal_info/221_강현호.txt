@@ -1,5 +1,0 @@
-name : °­ÇöÈ£
-age : 22
-e-mail : r47
-telephone : 010-3322-7033
-sex : female

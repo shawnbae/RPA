@@ -1,5 +1,0 @@
-name : ÃÖ¹Î¿ø
-age : 34
-e-mail : yw2
-telephone : 010-3334-9433
-sex : female

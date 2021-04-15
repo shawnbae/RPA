@@ -1,5 +1,0 @@
-name : ¹ÚÇöÁø
-age : 39
-e-mail : u9x
-telephone : 010-2339-7123
-sex : female

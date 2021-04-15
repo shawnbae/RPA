@@ -1,5 +1,0 @@
-name : ÀÌ¼­ÈÄ
-age : 35
-e-mail : mmf
-telephone : 010-5335-2953
-sex : female

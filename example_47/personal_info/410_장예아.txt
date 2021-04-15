@@ -1,5 +1,0 @@
-name : Àå¿¹¾Æ
-age : 15
-e-mail : b1k
-telephone : 010-3315-9633
-sex : female

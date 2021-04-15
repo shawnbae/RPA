@@ -1,5 +1,0 @@
-name : а╤гою╠
-age : 04
-e-mail : x4o
-telephone : 010-7004-3470
-sex : female

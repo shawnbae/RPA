@@ -1,5 +1,0 @@
-name : Á¤Çö¿ø
-age : 44
-e-mail : zc6
-telephone : 010-9344-7393
-sex : male

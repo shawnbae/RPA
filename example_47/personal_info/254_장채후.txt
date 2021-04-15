@@ -1,5 +1,0 @@
-name : ÀåÃ¤ÈÄ
-age : 73
-e-mail : 5yv
-telephone : 010-3373-3133
-sex : female

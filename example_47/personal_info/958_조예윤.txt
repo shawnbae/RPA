@@ -1,5 +1,0 @@
-name : Á¶¿¹À±
-age : 26
-e-mail : dvj
-telephone : 010-5166-5458
-sex : male

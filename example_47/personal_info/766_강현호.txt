@@ -1,5 +1,0 @@
-name : °­ÇöÈ£
-age : 35
-e-mail : hke
-telephone : 010-2935-1029
-sex : female

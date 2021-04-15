@@ -1,5 +1,0 @@
-name : ±Ë¡÷¿±
-age : 25
-e-mail : voa
-telephone : 010-3325-7233
-sex : male

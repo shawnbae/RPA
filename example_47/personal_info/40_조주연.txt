@@ -1,5 +1,0 @@
-name : ¡∂¡÷ø¨
-age : 33
-e-mail : ihq
-telephone : 010-3333-5233
-sex : female

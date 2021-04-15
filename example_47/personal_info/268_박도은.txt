@@ -1,5 +1,0 @@
-name : ¹ÚµµÀº
-age : 27
-e-mail : jqg
-telephone : 010-3327-5933
-sex : female

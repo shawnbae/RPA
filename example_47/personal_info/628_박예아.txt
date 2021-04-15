@@ -1,5 +1,0 @@
-name : ¹Ú¿¹¾Æ
-age : 67
-e-mail : sk8
-telephone : 010-8667-8486
-sex : female

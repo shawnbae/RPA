@@ -1,5 +1,0 @@
-name : ¡§¡÷º≠
-age : 65
-e-mail : fb8
-telephone : 010-4065-6140
-sex : female

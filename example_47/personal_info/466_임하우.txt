@@ -1,5 +1,0 @@
-name : юсго©Л
-age : 34
-e-mail : mu6
-telephone : 010-3334-9433
-sex : male

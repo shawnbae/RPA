@@ -1,5 +1,0 @@
-name : ╧зажю╨
-age : 55
-e-mail : w70
-telephone : 010-6937-1669
-sex : male

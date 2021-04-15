@@ -1,5 +1,0 @@
-name : °­Ã¤Áø
-age : 67
-e-mail : mk9
-telephone : 010-8667-9586
-sex : female

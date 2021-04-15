@@ -1,5 +1,0 @@
-name : ÃÖÁöÈÄ
-age : 56
-e-mail : i0a
-telephone : 010-3356-6033
-sex : male

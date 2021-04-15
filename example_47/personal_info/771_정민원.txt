@@ -1,5 +1,0 @@
-name : Á¤¹Î¿ø
-age : 47
-e-mail : xpf
-telephone : 010-9347-1193
-sex : female

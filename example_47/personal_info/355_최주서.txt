@@ -1,5 +1,0 @@
-name : √÷¡÷º≠
-age : 35
-e-mail : rm1
-telephone : 010-3335-4133
-sex : female

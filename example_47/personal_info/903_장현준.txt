@@ -1,5 +1,0 @@
-name : ภๅว๖มุ
-age : 17
-e-mail : isf
-telephone : 010-0017-6100
-sex : male

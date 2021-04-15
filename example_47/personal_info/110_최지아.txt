@@ -1,5 +1,0 @@
-name : ÃÖÁö¾Æ
-age : 32
-e-mail : xkp
-telephone : 010-3305-6933
-sex : female

@@ -1,5 +1,0 @@
-name : Á¶¿¹¾Æ
-age : 65
-e-mail : ayu
-telephone : 010-9365-4593
-sex : female

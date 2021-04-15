@@ -1,5 +1,0 @@
-name : юсаЖю╨
-age : 66
-e-mail : xvb
-telephone : 010-3366-8533
-sex : male

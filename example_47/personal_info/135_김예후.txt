@@ -1,5 +1,0 @@
-name : ±è¿¹ÈÄ
-age : 78
-e-mail : v9r
-telephone : 010-3378-1133
-sex : female

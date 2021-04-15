@@ -1,5 +1,0 @@
-name : ¿Â√§¡ÿ
-age : 71
-e-mail : nyn
-telephone : 010-1871-9318
-sex : male

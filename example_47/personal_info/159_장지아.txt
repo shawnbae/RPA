@@ -1,5 +1,0 @@
-name : ÀåÁö¾Æ
-age : 08
-e-mail : 1oq
-telephone : 010-3308-5533
-sex : male

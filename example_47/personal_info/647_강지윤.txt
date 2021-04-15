@@ -1,5 +1,0 @@
-name : °­ÁöÀ±
-age : 71
-e-mail : mml
-telephone : 010-3871-9138
-sex : male

@@ -1,5 +1,0 @@
-name : а╤го©Ь
-age : 67
-e-mail : 75e
-telephone : 010-3867-8938
-sex : female

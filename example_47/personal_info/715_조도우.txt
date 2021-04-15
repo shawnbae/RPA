@@ -1,5 +1,0 @@
-name : Á¶µµ¿ì
-age : 96
-e-mail : 1p2
-telephone : 010-1996-.019
-sex : male

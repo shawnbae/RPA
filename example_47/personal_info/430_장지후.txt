@@ -1,5 +1,0 @@
-name : ÀåÁöÈÄ
-age : 33
-e-mail : ooc
-telephone : 010-1333-5313
-sex : male

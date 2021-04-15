@@ -1,5 +1,0 @@
-name : а╤го©Ь
-age : 22
-e-mail : 1cz
-telephone : 010-3322-2433
-sex : male

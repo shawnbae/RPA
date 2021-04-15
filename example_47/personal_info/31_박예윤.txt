@@ -1,5 +1,0 @@
-name : ¹Ú¿¹À±
-age : 33
-e-mail : 9xa
-telephone : 010-3333-3633
-sex : female

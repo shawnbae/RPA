@@ -1,5 +1,0 @@
-name : ¿Ã√§ø¨
-age : 57
-e-mail : m3v
-telephone : 010-3357-8133
-sex : male

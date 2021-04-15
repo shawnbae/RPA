@@ -1,5 +1,0 @@
-name : ¿±øπ¡ÿ
-age : 34
-e-mail : 04x
-telephone : 010-6334-5763
-sex : female

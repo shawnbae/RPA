@@ -1,5 +1,0 @@
-name : ╧заж©Ь
-age : 37
-e-mail : d25
-telephone : 010-3337-5533
-sex : male

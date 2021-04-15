@@ -1,5 +1,0 @@
-name : ¡§µµ¡ÿ
-age : 09
-e-mail : 1vi
-telephone : 010-9309-9993
-sex : male

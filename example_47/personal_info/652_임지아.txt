@@ -1,5 +1,0 @@
-name : юсаЖ╬ф
-age : 21
-e-mail : yor
-telephone : 010-8721-2187
-sex : male

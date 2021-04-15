@@ -1,5 +1,0 @@
-name : ¹ÚÃ¤ÈÄ
-age : 34
-e-mail : um9
-telephone : 010-8334-2183
-sex : female

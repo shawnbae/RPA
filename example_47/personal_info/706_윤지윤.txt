@@ -1,5 +1,0 @@
-name : À±ÁöÀ±
-age : 37
-e-mail : u8z
-telephone : 010-6937-0069
-sex : male

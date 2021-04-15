@@ -1,5 +1,0 @@
-name : Á¶À±¾Æ
-age : 35
-e-mail : w3l
-telephone : 010-3335-9433
-sex : male

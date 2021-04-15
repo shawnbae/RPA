@@ -1,5 +1,0 @@
-name : °­¿¹Áø
-age : 33
-e-mail : uhd
-telephone : 010-3333-9933
-sex : female

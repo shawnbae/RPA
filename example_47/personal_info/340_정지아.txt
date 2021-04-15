@@ -1,5 +1,0 @@
-name : Á¤Áö¾Æ
-age : 38
-e-mail : dq6
-telephone : 010-3338-8833
-sex : male

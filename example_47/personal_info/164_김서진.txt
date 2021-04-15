@@ -1,5 +1,0 @@
-name : ±è¼­Áø
-age : 22
-e-mail : 2r3
-telephone : 010-3322-6433
-sex : female

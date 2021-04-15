@@ -1,5 +1,0 @@
-name : Á¶µµÈÄ
-age : 62
-e-mail : sh9
-telephone : 010-5334-7053
-sex : female

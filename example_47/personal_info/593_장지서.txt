@@ -1,5 +1,0 @@
-name : ÀåÁö¼­
-age : 66
-e-mail : 050
-telephone : 010-3366-2633
-sex : male

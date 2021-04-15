@@ -1,5 +1,0 @@
-name : √÷µµø¨
-age : 05
-e-mail : z5u
-telephone : 010-3305-9533
-sex : male

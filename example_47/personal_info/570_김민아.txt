@@ -1,5 +1,0 @@
-name : ±è¹Î¾Æ
-age : 34
-e-mail : egh
-telephone : 010-5334-7853
-sex : male

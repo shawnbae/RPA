@@ -1,5 +1,0 @@
-name : ÀÌÇöÀ±
-age : 48
-e-mail : 90f
-telephone : 010-3348-4633
-sex : female

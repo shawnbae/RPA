@@ -1,5 +1,0 @@
-name : ¡§¡÷¡ÿ
-age : 24
-e-mail : x6p
-telephone : 010-0024-5300
-sex : male

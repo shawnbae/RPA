@@ -1,5 +1,0 @@
-name : ÃÖ¹Î¿ø
-age : 41
-e-mail : 508
-telephone : 010-8341-8283
-sex : male

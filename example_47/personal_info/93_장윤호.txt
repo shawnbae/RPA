@@ -1,5 +1,0 @@
-name : ¿Â¿±»£
-age : 33
-e-mail : l3m
-telephone : 010-4033-.940
-sex : female

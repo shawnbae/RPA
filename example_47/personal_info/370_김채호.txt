@@ -1,5 +1,0 @@
-name : ±Ë√§»£
-age : 35
-e-mail : 9d6
-telephone : 010-8335-4383
-sex : male

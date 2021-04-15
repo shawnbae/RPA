@@ -1,5 +1,0 @@
-name : ¹ÚÇöÀ±
-age : 25
-e-mail : e80
-telephone : 010-3325-2533
-sex : male

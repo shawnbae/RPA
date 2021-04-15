@@ -1,5 +1,0 @@
-name : Á¶Ã¤¾Æ
-age : 28
-e-mail : vhv
-telephone : 010-3328-4533
-sex : male

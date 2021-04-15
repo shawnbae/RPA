@@ -1,5 +1,0 @@
-name : ¹ÚÃ¤Àº
-age : 84
-e-mail : igd
-telephone : 010-9384-8893
-sex : male

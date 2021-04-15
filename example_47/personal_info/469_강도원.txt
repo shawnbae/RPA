@@ -1,5 +1,0 @@
-name : °­µµ¿ø
-age : 33
-e-mail : olg
-telephone : 010-9333-5993
-sex : female

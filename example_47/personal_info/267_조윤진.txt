@@ -1,5 +1,0 @@
-name : Á¶À±Áø
-age : 33
-e-mail : ot3
-telephone : 010-7333-2573
-sex : male

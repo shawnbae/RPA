@@ -1,5 +1,0 @@
-name : ÀÌÃ¤ÈÄ
-age : 63
-e-mail : 8jl
-telephone : 010-3363-7433
-sex : male

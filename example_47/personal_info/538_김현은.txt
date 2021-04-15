@@ -1,5 +1,0 @@
-name : ±èÇöÀº
-age : 15
-e-mail : 6gn
-telephone : 010-3315-3233
-sex : male

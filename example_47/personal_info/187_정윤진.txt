@@ -1,5 +1,0 @@
-name : Á¤À±Áø
-age : 36
-e-mail : 6g6
-telephone : 010-5336-1053
-sex : female

@@ -1,5 +1,0 @@
-name : а╓гою╠
-age : 38
-e-mail : ogu
-telephone : 010-0038-3600
-sex : male

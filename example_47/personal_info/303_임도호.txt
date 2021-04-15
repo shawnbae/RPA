@@ -1,5 +1,0 @@
-name : ¿”µµ»£
-age : 36
-e-mail : 6zx
-telephone : 010-3336-3233
-sex : female

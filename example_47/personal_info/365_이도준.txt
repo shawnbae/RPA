@@ -1,5 +1,0 @@
-name : ¿Ãµµ¡ÿ
-age : 53
-e-mail : nep
-telephone : 010-3353-3033
-sex : male

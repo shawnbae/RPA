@@ -1,5 +1,0 @@
-name : ±èÁö¿ì
-age : 69
-e-mail : 906
-telephone : 010-3369-3433
-sex : female

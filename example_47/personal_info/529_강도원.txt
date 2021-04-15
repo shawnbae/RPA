@@ -1,5 +1,0 @@
-name : °­µµ¿ø
-age : 46
-e-mail : tyq
-telephone : 010-3346-1633
-sex : male

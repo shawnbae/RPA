@@ -1,5 +1,0 @@
-name : ╧заж©Ь
-age : 42
-e-mail : 6le
-telephone : 010-9342-9593
-sex : female

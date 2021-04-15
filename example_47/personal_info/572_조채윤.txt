@@ -1,5 +1,0 @@
-name : Á¶Ã¤À±
-age : 17
-e-mail : qv6
-telephone : 010-3317-8833
-sex : female

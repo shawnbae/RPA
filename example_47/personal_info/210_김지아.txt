@@ -1,5 +1,0 @@
-name : ±èÁö¾Æ
-age : 18
-e-mail : rdb
-telephone : 010-3318-4933
-sex : female

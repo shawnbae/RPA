@@ -1,5 +1,0 @@
-name : ÃÖµµ¿ø
-age : 32
-e-mail : zeg
-telephone : 010-9932-1999
-sex : male

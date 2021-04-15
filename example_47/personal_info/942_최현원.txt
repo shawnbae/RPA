@@ -1,5 +1,0 @@
-name : ÃÖÇö¿ø
-age : 05
-e-mail : yv9
-telephone : 010-0005-2800
-sex : female

@@ -1,5 +1,0 @@
-name : °­¼­¾Æ
-age : 74
-e-mail : owo
-telephone : 010-9474-8794
-sex : female

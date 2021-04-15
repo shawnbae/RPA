@@ -1,5 +1,0 @@
-name : ¿Ã√§æ∆
-age : 05
-e-mail : fh6
-telephone : 010-3305-3633
-sex : male

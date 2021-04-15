@@ -1,5 +1,0 @@
-name : юсю╠©Ь
-age : 41
-e-mail : yi1
-telephone : 010-3341-0033
-sex : female

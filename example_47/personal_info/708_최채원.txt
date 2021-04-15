@@ -1,5 +1,0 @@
-name : ÃÖÃ¤¿ø
-age : 32
-e-mail : epb
-telephone : 010-9332-0993
-sex : male

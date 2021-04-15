@@ -1,5 +1,0 @@
-name : ∞≠¡÷¿±
-age : 45
-e-mail : s43
-telephone : 010-9345-1593
-sex : male

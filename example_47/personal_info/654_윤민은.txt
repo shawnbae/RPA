@@ -1,5 +1,0 @@
-name : ¿±πŒ¿∫
-age : 07
-e-mail : 79n
-telephone : 010-8707-2487
-sex : female

@@ -1,5 +1,0 @@
-name : Á¶Ã¤¿ì
-age : 19
-e-mail : zmd
-telephone : 010-3319-3933
-sex : female

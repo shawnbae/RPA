@@ -1,5 +1,0 @@
-name : Á¶¹Î¼­
-age : 22
-e-mail : m8t
-telephone : 010-3322-9733
-sex : male

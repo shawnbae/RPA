@@ -1,5 +1,0 @@
-name : ÀÌ¼­ÈÄ
-age : 32
-e-mail : k61
-telephone : 010-3332-7633
-sex : female

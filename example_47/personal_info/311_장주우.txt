@@ -1,5 +1,0 @@
-name : ¿Â¡÷øÏ
-age : 68
-e-mail : g7g
-telephone : 010-3362-3833
-sex : male

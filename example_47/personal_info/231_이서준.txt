@@ -1,5 +1,0 @@
-name : ¿Ãº≠¡ÿ
-age : 34
-e-mail : w7g
-telephone : 010-3334-8933
-sex : male

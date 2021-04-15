@@ -1,5 +1,0 @@
-name : ¡∂πŒ¡ÿ
-age : 25
-e-mail : vsb
-telephone : 010-9325-2693
-sex : female

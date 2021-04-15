@@ -1,5 +1,0 @@
-name : ¹Ú¼­ÈÄ
-age : 74
-e-mail : q8x
-telephone : 010-3374-1733
-sex : male

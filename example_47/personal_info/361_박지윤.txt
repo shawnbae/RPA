@@ -1,5 +1,0 @@
-name : ¹ÚÁöÀ±
-age : 63
-e-mail : pop
-telephone : 010-3363-2333
-sex : male

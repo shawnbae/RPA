@@ -1,5 +1,0 @@
-name : °­Çö¿ì
-age : 32
-e-mail : ien
-telephone : 010-6332-9863
-sex : male

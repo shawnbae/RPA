@@ -1,5 +1,0 @@
-name : ¹Ú¿¹¿ø
-age : 14
-e-mail : txu
-telephone : 010-9314-3193
-sex : male

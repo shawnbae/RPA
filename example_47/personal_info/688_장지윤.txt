@@ -1,5 +1,0 @@
-name : ÀåÁöÀ±
-age : 48
-e-mail : 2hm
-telephone : 010-9348-7893
-sex : female

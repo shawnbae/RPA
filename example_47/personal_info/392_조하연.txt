@@ -1,5 +1,0 @@
-name : Á¶ÇÏ¿¬
-age : 48
-e-mail : kgb
-telephone : 010-3348-7333
-sex : male

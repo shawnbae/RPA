@@ -1,5 +1,0 @@
-name : °­À±ÈÄ
-age : 43
-e-mail : 26q
-telephone : 010-3343-8433
-sex : female

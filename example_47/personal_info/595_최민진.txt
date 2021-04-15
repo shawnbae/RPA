@@ -1,5 +1,0 @@
-name : ÃÖ¹ÎÁø
-age : 32
-e-mail : mog
-telephone : 010-9332-8293
-sex : female

@@ -1,5 +1,0 @@
-name : √÷øπæ∆
-age : 22
-e-mail : 0x3
-telephone : 010-3322-6033
-sex : female

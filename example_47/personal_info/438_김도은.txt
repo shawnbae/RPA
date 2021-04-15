@@ -1,5 +1,0 @@
-name : ±èµµÀº
-age : 21
-e-mail : eu8
-telephone : 010-3321-4633
-sex : female

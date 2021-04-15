@@ -1,5 +1,0 @@
-name : ¿Âº≠º≠
-age : 37
-e-mail : 6pr
-telephone : 010-0937-1509
-sex : female

@@ -1,5 +1,0 @@
-name : ¹Ú¼­¿ì
-age : 73
-e-mail : 47c
-telephone : 010-3373-7233
-sex : male

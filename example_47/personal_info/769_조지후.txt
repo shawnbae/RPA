@@ -1,5 +1,0 @@
-name : Á¶ÁöÈÄ
-age : 57
-e-mail : 6xq
-telephone : 010-9357-0793
-sex : male

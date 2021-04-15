@@ -1,5 +1,0 @@
-name : ¹ÚÃ¤Áø
-age : 12
-e-mail : 6jk
-telephone : 010-0012-3400
-sex : female

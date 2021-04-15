@@ -1,5 +1,0 @@
-name : √÷¿±øÏ
-age : 06
-e-mail : obb
-telephone : 010-3306-6333
-sex : female

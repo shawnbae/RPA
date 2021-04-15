@@ -1,5 +1,0 @@
-name : ÃÖµµÈÄ
-age : 37
-e-mail : txi
-telephone : 010-2337-3523
-sex : female

@@ -1,5 +1,0 @@
-name : ╟╜аж©Л
-age : 29
-e-mail : 6qb
-telephone : 010-3329-1233
-sex : male

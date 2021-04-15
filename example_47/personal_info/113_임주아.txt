@@ -1,5 +1,0 @@
-name : юсаж╬ф
-age : 34
-e-mail : ah5
-telephone : 010-3334-9733
-sex : male

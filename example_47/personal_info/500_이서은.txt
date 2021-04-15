@@ -1,5 +1,0 @@
-name : ¿Ãº≠¿∫
-age : 45
-e-mail : v0b
-telephone : 010-3345-5833
-sex : male

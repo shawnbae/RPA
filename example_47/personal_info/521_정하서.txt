@@ -1,5 +1,0 @@
-name : Á¤ÇÏ¼­
-age : 36
-e-mail : 6zz
-telephone : 010-3336-0033
-sex : male

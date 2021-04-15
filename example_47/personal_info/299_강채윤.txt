@@ -1,5 +1,0 @@
-name : °­Ã¤À±
-age : 13
-e-mail : 2oa
-telephone : 010-3313-1433
-sex : female

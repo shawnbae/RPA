@@ -1,5 +1,0 @@
-name : ╧зажаь
-age : 61
-e-mail : y5s
-telephone : 010-9361-4893
-sex : female

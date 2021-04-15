@@ -1,5 +1,0 @@
-name : °­µµ¾Æ
-age : 03
-e-mail : 63x
-telephone : 010-0035-4600
-sex : female

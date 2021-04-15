@@ -1,5 +1,0 @@
-name : ÃÖµµÈÄ
-age : 65
-e-mail : xal
-telephone : 010-3365-2133
-sex : female

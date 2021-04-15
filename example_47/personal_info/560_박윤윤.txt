@@ -1,5 +1,0 @@
-name : ¹ÚÀ±À±
-age : 36
-e-mail : kah
-telephone : 010-3336-6933
-sex : female

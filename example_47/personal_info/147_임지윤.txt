@@ -1,5 +1,0 @@
-name : юсаЖю╠
-age : 22
-e-mail : fff
-telephone : 010-3322-3233
-sex : female

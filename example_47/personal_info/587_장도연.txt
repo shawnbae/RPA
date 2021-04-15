@@ -1,5 +1,0 @@
-name : ¿Âµµø¨
-age : 27
-e-mail : 87h
-telephone : 010-3335-1633
-sex : male

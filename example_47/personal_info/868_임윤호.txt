@@ -1,5 +1,0 @@
-name : юсю╠хё
-age : 42
-e-mail : p8k
-telephone : 010-0042-0100
-sex : female

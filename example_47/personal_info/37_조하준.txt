@@ -1,5 +1,0 @@
-name : ¡∂«œ¡ÿ
-age : 36
-e-mail : 7nf
-telephone : 010-7336-8473
-sex : female

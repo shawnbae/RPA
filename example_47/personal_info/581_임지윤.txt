@@ -1,5 +1,0 @@
-name : юсаЖю╠
-age : 33
-e-mail : d6y
-telephone : 010-5333-8053
-sex : male

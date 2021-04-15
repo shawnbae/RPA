@@ -1,5 +1,0 @@
-name : ÀÓ¹ÎÈÄ
-age : 67
-e-mail : 0g0
-telephone : 010-0067-6900
-sex : male

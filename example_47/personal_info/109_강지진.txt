@@ -1,5 +1,0 @@
-name : °­ÁöÁø
-age : 28
-e-mail : r0v
-telephone : 010-3328-6733
-sex : female

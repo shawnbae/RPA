@@ -1,5 +1,0 @@
-name : °­¿¹¼­
-age : 92
-e-mail : pss
-telephone : 010-4937-1949
-sex : female

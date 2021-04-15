@@ -1,5 +1,0 @@
-name : Á¤Ã¤¼­
-age : 23
-e-mail : ysw
-telephone : 010-0023-9900
-sex : male

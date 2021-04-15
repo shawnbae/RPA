@@ -1,5 +1,0 @@
-name : Á¶ÇÏ¿¬
-age : 44
-e-mail : hjv
-telephone : 010-0044-4200
-sex : female

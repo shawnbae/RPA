@@ -1,5 +1,0 @@
-name : ÀÌÇö¿¬
-age : 37
-e-mail : u8s
-telephone : 010-8337-3783
-sex : female

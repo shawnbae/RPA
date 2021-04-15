@@ -1,5 +1,0 @@
-name : ¹Ú¿¹¿¬
-age : 34
-e-mail : wyb
-telephone : 010-7334-0973
-sex : male

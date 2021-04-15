@@ -1,5 +1,0 @@
-name : ¹ÚÇö¾Æ
-age : 72
-e-mail : pwe
-telephone : 010-8672-4386
-sex : male

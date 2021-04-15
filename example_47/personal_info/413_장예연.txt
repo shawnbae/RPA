@@ -1,5 +1,0 @@
-name : Àå¿¹¿¬
-age : 92
-e-mail : 5rd
-telephone : 010-3292-0132
-sex : female

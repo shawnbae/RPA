@@ -1,5 +1,0 @@
-name : ¹ÚÁö¼­
-age : 01
-e-mail : kvq
-telephone : 010-4001-4140
-sex : female

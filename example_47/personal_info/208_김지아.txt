@@ -1,5 +1,0 @@
-name : ±èÁö¾Æ
-age : 16
-e-mail : ihd
-telephone : 010-3316-4533
-sex : male

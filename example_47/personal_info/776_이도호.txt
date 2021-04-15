@@ -1,5 +1,0 @@
-name : ¿Ãµµ»£
-age : 65
-e-mail : ty9
-telephone : 010-9365-1893
-sex : male

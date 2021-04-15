@@ -1,5 +1,0 @@
-name : Á¶À±Áø
-age : 56
-e-mail : sig
-telephone : 010-3356-1633
-sex : male

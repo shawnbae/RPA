@@ -1,5 +1,0 @@
-name : ¹ÚÇöÀ±
-age : 52
-e-mail : mqi
-telephone : 010-3352-2833
-sex : male

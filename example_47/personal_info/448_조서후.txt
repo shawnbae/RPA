@@ -1,5 +1,0 @@
-name : Á¶¼­ÈÄ
-age : 22
-e-mail : xem
-telephone : 010-3322-6433
-sex : female

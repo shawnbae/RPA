@@ -1,5 +1,0 @@
-name : Á¤Çö¼­
-age : 38
-e-mail : 8g1
-telephone : 010-3338-7633
-sex : male

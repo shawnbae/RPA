@@ -1,5 +1,0 @@
-name : À±ÁöÁø
-age : 56
-e-mail : jnk
-telephone : 010-3339-0533
-sex : female

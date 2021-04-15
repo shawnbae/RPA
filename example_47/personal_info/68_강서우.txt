@@ -1,5 +1,0 @@
-name : °­¼­¿ì
-age : 04
-e-mail : 76f
-telephone : 010-3404-9934
-sex : female

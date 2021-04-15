@@ -1,5 +1,0 @@
-name : Á¶ÁÖÈÄ
-age : 16
-e-mail : vee
-telephone : 010-0016-5100
-sex : male

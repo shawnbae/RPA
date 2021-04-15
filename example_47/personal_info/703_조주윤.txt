@@ -1,5 +1,0 @@
-name : ¡∂¡÷¿±
-age : 31
-e-mail : 6ax
-telephone : 010-1931-0019
-sex : female

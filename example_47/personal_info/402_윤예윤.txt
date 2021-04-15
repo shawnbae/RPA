@@ -1,5 +1,0 @@
-name : À±¿¹À±
-age : 27
-e-mail : e2a
-telephone : 010-3327-8633
-sex : female

@@ -1,5 +1,0 @@
-name : Á¤Áö¿ì
-age : 28
-e-mail : blq
-telephone : 010-3328-9233
-sex : female

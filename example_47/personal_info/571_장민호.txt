@@ -1,5 +1,0 @@
-name : ¿ÂπŒ»£
-age : 63
-e-mail : i6t
-telephone : 010-3363-8733
-sex : female

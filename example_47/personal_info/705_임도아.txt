@@ -1,5 +1,0 @@
-name : ¿”µµæ∆
-age : 32
-e-mail : ovb
-telephone : 010-5932-0059
-sex : female

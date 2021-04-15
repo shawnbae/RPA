@@ -1,5 +1,0 @@
-name : °­µµ¿ø
-age : 14
-e-mail : prl
-telephone : 010-0014-4100
-sex : male

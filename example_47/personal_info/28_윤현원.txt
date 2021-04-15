@@ -1,5 +1,0 @@
-name : À±Çö¿ø
-age : 39
-e-mail : jc9
-telephone : 010-3339-3133
-sex : female

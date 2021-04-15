@@ -1,5 +1,0 @@
-name : ÀÌÇö¿ì
-age : 32
-e-mail : 2lt
-telephone : 010-7332-6173
-sex : male

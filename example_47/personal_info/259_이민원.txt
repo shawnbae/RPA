@@ -1,5 +1,0 @@
-name : ÀÌ¹Î¿ø
-age : 23
-e-mail : fog
-telephone : 010-3323-4133
-sex : female

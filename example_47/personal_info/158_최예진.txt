@@ -1,5 +1,0 @@
-name : ÃÖ¿¹Áø
-age : 16
-e-mail : nyi
-telephone : 010-3316-5333
-sex : female

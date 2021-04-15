@@ -1,5 +1,0 @@
-name : นฺม๖มุ
-age : 32
-e-mail : d0x
-telephone : 010-6932-0769
-sex : female

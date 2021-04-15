@@ -1,5 +1,0 @@
-name : À±¼­È£
-age : 19
-e-mail : phf
-telephone : 010-3319-9133
-sex : male

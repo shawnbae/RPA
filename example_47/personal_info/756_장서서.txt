@@ -1,5 +1,0 @@
-name : ¿Âº≠º≠
-age : 38
-e-mail : 5ma
-telephone : 010-5938-0859
-sex : female

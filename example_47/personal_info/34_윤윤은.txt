@@ -1,5 +1,0 @@
-name : À±À±Àº
-age : 14
-e-mail : wfy
-telephone : 010-3314-4233
-sex : male

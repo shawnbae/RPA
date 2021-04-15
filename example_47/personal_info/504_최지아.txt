@@ -1,5 +1,0 @@
-name : ÃÖÁö¾Æ
-age : 32
-e-mail : 8yd
-telephone : 010-3332-6633
-sex : male

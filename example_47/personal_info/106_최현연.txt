@@ -1,5 +1,0 @@
-name : ÃÖÇö¿¬
-age : 32
-e-mail : o66
-telephone : 010-2332-9623
-sex : female

@@ -1,5 +1,0 @@
-name : ÀåÁö¿¬
-age : 68
-e-mail : 3z7
-telephone : 010-3368-4833
-sex : male

@@ -1,5 +1,0 @@
-name : ÀÌÁöÁø
-age : 32
-e-mail : q6y
-telephone : 010-2332-1923
-sex : male

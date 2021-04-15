@@ -1,5 +1,0 @@
-name : ±Ë√§»£
-age : 67
-e-mail : rvn
-telephone : 010-9367-6893
-sex : male

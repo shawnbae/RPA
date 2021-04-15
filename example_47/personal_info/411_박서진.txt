@@ -1,5 +1,0 @@
-name : ¹Ú¼­Áø
-age : 04
-e-mail : trf
-telephone : 010-3304-9833
-sex : female

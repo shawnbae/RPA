@@ -1,5 +1,0 @@
-name : ÀÓ¼­ÈÄ
-age : 22
-e-mail : kfx
-telephone : 010-3322-8933
-sex : male

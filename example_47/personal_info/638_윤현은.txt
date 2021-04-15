@@ -1,5 +1,0 @@
-name : À±ÇöÀº
-age : 68
-e-mail : 82z
-telephone : 010-9868-8998
-sex : male

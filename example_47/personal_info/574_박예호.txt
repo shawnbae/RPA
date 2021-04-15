@@ -1,5 +1,0 @@
-name : ¹Ú¿¹È£
-age : 34
-e-mail : kmv
-telephone : 010-3334-9233
-sex : male

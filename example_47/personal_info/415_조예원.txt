@@ -1,5 +1,0 @@
-name : Á¶¿¹¿ø
-age : 22
-e-mail : phu
-telephone : 010-3322-0533
-sex : male

@@ -1,5 +1,0 @@
-name : юсю╠хд
-age : 75
-e-mail : 0nw
-telephone : 010-3375-6733
-sex : male

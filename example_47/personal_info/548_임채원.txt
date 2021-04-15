@@ -1,5 +1,0 @@
-name : юсц╓©Ь
-age : 24
-e-mail : sz2
-telephone : 010-3324-4933
-sex : male

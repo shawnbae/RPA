@@ -1,5 +1,0 @@
-name : √÷√§º≠
-age : 17
-e-mail : flw
-telephone : 010-0017-1200
-sex : female

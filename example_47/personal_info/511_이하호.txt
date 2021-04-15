@@ -1,5 +1,0 @@
-name : юлгохё
-age : 28
-e-mail : xk0
-telephone : 010-3328-8233
-sex : male

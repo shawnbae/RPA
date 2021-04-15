@@ -1,5 +1,0 @@
-name : ¡∂µµ¡ÿ
-age : 08
-e-mail : npp
-telephone : 010-3308-0933
-sex : male

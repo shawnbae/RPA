@@ -1,5 +1,0 @@
-name : ю╠го©Л
-age : 73
-e-mail : iad
-telephone : 010-3373-2433
-sex : male

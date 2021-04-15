@@ -1,5 +1,0 @@
-name : °­ÁÖÈÄ
-age : 27
-e-mail : eo9
-telephone : 010-3327-3933
-sex : female

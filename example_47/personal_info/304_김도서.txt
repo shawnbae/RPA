@@ -1,5 +1,0 @@
-name : ±èµµ¼­
-age : 48
-e-mail : gts
-telephone : 010-3348-2533
-sex : male

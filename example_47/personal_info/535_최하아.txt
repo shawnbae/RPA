@@ -1,5 +1,0 @@
-name : ÃÖÇÏ¾Æ
-age : 32
-e-mail : fsu
-telephone : 010-7332-7273
-sex : female

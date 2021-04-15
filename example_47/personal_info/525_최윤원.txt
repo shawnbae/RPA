@@ -1,5 +1,0 @@
-name : ÃÖÀ±¿ø
-age : 37
-e-mail : mms
-telephone : 010-3337-0833
-sex : female

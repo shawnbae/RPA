@@ -1,5 +1,0 @@
-name : ¹Ú¹Î¼­
-age : 22
-e-mail : 665
-telephone : 010-3422-6634
-sex : male

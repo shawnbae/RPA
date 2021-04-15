@@ -1,5 +1,0 @@
-name : นฺนฮมุ
-age : 36
-e-mail : obq
-telephone : 010-3336-4133
-sex : female

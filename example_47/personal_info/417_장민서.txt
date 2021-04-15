@@ -1,5 +1,0 @@
-name : ¿ÂπŒº≠
-age : 42
-e-mail : zt5
-telephone : 010-3342-0833
-sex : female

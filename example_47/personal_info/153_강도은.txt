@@ -1,5 +1,0 @@
-name : °­µµÀº
-age : 38
-e-mail : t72
-telephone : 010-3338-4333
-sex : male

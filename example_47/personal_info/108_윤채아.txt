@@ -1,5 +1,0 @@
-name : À±Ã¤¾Æ
-age : 13
-e-mail : lfe
-telephone : 010-3313-6533
-sex : female

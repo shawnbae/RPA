@@ -1,5 +1,0 @@
-name : а╤гою╠
-age : 52
-e-mail : llt
-telephone : 010-3352-5533
-sex : female

@@ -1,5 +1,0 @@
-name : ±èÇö¿¬
-age : 86
-e-mail : leo
-telephone : 010-8686-8786
-sex : female

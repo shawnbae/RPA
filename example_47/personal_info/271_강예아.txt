@@ -1,5 +1,0 @@
-name : °­¿¹¾Æ
-age : 63
-e-mail : 0ke
-telephone : 010-3363-6433
-sex : male

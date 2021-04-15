@@ -1,5 +1,0 @@
-name : ¹ÚÁöÈÄ
-age : 53
-e-mail : b0c
-telephone : 010-8653-0486
-sex : female

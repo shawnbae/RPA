@@ -1,5 +1,0 @@
-name : ±èÁöÁø
-age : 16
-e-mail : j5y
-telephone : 010-3316-1933
-sex : male

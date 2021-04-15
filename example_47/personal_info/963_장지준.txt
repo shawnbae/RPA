@@ -1,5 +1,0 @@
-name : ภๅม๖มุ
-age : 54
-e-mail : at8
-telephone : 010-5354-6253
-sex : male

@@ -1,5 +1,0 @@
-name : ÀåÃ¤¿ø
-age : 45
-e-mail : wxm
-telephone : 010-3345-7733
-sex : female

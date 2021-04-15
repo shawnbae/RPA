@@ -1,5 +1,0 @@
-name : °­Áö¿ø
-age : 65
-e-mail : tt2
-telephone : 010-0065-2100
-sex : female

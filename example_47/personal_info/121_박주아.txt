@@ -1,5 +1,0 @@
-name : ╧заж╬ф
-age : 43
-e-mail : bcf
-telephone : 010-3343-8733
-sex : female

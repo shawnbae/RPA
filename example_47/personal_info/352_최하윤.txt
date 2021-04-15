@@ -1,5 +1,0 @@
-name : √÷«œ¿±
-age : 37
-e-mail : xhx
-telephone : 010-9337-4093
-sex : female

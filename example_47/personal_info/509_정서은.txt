@@ -1,5 +1,0 @@
-name : Á¤¼­Àº
-age : 45
-e-mail : ys7
-telephone : 010-3354-7833
-sex : male

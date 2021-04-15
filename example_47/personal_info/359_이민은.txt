@@ -1,5 +1,0 @@
-name : ¿ÃπŒ¿∫
-age : 74
-e-mail : wp2
-telephone : 010-3374-2033
-sex : female

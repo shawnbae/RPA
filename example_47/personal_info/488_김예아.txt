@@ -1,5 +1,0 @@
-name : ±è¿¹¾Æ
-age : 31
-e-mail : lxi
-telephone : 010-3343-3533
-sex : female

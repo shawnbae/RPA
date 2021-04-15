@@ -1,5 +1,0 @@
-name : ÀÌÁöÈ£
-age : 34
-e-mail : 0od
-telephone : 010-2334-9823
-sex : female

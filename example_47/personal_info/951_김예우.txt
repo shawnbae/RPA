@@ -1,5 +1,0 @@
-name : ±è¿¹¿ì
-age : 13
-e-mail : hf4
-telephone : 010-0013-4200
-sex : female

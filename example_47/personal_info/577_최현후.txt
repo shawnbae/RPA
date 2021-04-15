@@ -1,5 +1,0 @@
-name : ÃÖÇöÈÄ
-age : 32
-e-mail : ypi
-telephone : 010-3332-9733
-sex : male

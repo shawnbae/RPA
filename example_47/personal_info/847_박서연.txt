@@ -1,5 +1,0 @@
-name : ¹Ú¼­¿¬
-age : 42
-e-mail : bnj
-telephone : 010-0042-6100
-sex : female

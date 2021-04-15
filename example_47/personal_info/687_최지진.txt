@@ -1,5 +1,0 @@
-name : ÃÖÁöÁø
-age : 36
-e-mail : wdz
-telephone : 010-7936-9779
-sex : female

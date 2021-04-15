@@ -1,5 +1,0 @@
-name : °­ÇÏ¿¬
-age : 43
-e-mail : ume
-telephone : 010-3343-3733
-sex : male

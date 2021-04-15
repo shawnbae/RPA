@@ -1,5 +1,0 @@
-name : ÀÌÇöÀº
-age : 35
-e-mail : rpw
-telephone : 010-8535-4885
-sex : female

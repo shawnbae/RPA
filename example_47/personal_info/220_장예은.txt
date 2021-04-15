@@ -1,5 +1,0 @@
-name : Àå¿¹Àº
-age : 04
-e-mail : dht
-telephone : 010-3304-6833
-sex : male

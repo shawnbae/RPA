@@ -1,5 +1,0 @@
-name : °­ÁöÈÄ
-age : 34
-e-mail : lak
-telephone : 010-7334-8173
-sex : male

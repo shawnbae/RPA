@@ -1,5 +1,0 @@
-name : Á¶¿¹¿ì
-age : 22
-e-mail : 2vc
-telephone : 010-3322-2933
-sex : male

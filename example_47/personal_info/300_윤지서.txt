@@ -1,5 +1,0 @@
-name : À±Áö¼­
-age : 32
-e-mail : kpa
-telephone : 010-6332-3163
-sex : male

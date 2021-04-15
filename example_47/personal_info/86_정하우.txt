@@ -1,5 +1,0 @@
-name : а╓го©Л
-age : 18
-e-mail : 7ac
-telephone : 010-3318-2933
-sex : male

@@ -1,5 +1,0 @@
-name : ¹Ú¿¹¾Æ
-age : 34
-e-mail : bz5
-telephone : 010-9334-0993
-sex : female

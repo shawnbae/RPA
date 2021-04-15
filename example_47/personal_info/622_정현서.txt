@@ -1,5 +1,0 @@
-name : Á¤Çö¼­
-age : 34
-e-mail : uew
-telephone : 010-3334-7433
-sex : male

@@ -1,5 +1,0 @@
-name : °­Çö¿ø
-age : 69
-e-mail : sld
-telephone : 010-9369-1593
-sex : male

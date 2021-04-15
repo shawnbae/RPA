@@ -1,5 +1,0 @@
-name : À±Çö¾Æ
-age : 22
-e-mail : qws
-telephone : 010-3322-3733
-sex : female

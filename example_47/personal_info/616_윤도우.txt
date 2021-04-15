@@ -1,5 +1,0 @@
-name : À±µµ¿ì
-age : 36
-e-mail : qd5
-telephone : 010-3336-6533
-sex : female

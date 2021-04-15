@@ -1,5 +1,0 @@
-name : ÀÓÇöÈÄ
-age : 36
-e-mail : jt6
-telephone : 010-8536-4985
-sex : male

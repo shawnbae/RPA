@@ -1,5 +1,0 @@
-name : ¹ÚÀ±¼­
-age : 33
-e-mail : hdp
-telephone : 010-9333-5993
-sex : male

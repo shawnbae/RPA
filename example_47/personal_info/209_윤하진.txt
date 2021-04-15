@@ -1,5 +1,0 @@
-name : À±ÇÏÁø
-age : 22
-e-mail : qx5
-telephone : 010-3322-4733
-sex : female

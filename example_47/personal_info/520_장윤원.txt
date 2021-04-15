@@ -1,5 +1,0 @@
-name : ÀåÀ±¿ø
-age : 23
-e-mail : z9d
-telephone : 010-3323-9833
-sex : male

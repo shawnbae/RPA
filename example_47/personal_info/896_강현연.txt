@@ -1,5 +1,0 @@
-name : °­Çö¿¬
-age : 12
-e-mail : hix
-telephone : 010-0012-4900
-sex : male

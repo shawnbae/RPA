@@ -1,5 +1,0 @@
-name : ÀÌµµ¿ø
-age : 33
-e-mail : 7rj
-telephone : 010-4333-5343
-sex : female

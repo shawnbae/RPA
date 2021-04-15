@@ -1,5 +1,0 @@
-name : юсажаЬ
-age : 65
-e-mail : eid
-telephone : 010-3365-5433
-sex : female

@@ -1,5 +1,0 @@
-name : РЬУЄСи
-age : 83
-e-mail : kpf
-telephone : 010-8683-4186
-sex : male

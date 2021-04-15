@@ -1,5 +1,0 @@
-name : юсаЖ©╛
-age : 31
-e-mail : 8mv
-telephone : 010-8331-8383
-sex : female

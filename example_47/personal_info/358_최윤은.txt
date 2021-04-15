@@ -1,5 +1,0 @@
-name : √÷¿±¿∫
-age : 54
-e-mail : 3kp
-telephone : 010-3354-1833
-sex : female

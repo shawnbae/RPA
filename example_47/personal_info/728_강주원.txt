@@ -1,5 +1,0 @@
-name : ╟╜аж©Ь
-age : 65
-e-mail : j7f
-telephone : 010-9365-3993
-sex : male

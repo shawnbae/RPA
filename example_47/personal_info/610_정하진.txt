@@ -1,5 +1,0 @@
-name : Á¤ÇÏÁø
-age : 32
-e-mail : hp6
-telephone : 010-5332-8553
-sex : female

@@ -1,5 +1,0 @@
-name : Á¤¹Î¾Æ
-age : 07
-e-mail : so5
-telephone : 010-8707-3887
-sex : female

@@ -1,5 +1,0 @@
-name : ±èµµ¿¬
-age : 12
-e-mail : poc
-telephone : 010-3312-6033
-sex : male

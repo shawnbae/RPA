@@ -1,5 +1,0 @@
-name : °­Ã¤È£
-age : 16
-e-mail : pz1
-telephone : 010-3316-7333
-sex : male

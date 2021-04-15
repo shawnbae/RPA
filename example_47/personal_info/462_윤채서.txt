@@ -1,5 +1,0 @@
-name : À±Ã¤¼­
-age : 27
-e-mail : 9dv
-telephone : 010-3327-8733
-sex : female

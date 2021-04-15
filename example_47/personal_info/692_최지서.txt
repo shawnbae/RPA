@@ -1,5 +1,0 @@
-name : ÃÖÁö¼­
-age : 57
-e-mail : ui0
-telephone : 010-9357-8593
-sex : female

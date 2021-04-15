@@ -1,5 +1,0 @@
-name : ±è¿¹À±
-age : 44
-e-mail : fxr
-telephone : 010-3344-2433
-sex : male

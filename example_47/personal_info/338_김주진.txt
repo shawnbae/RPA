@@ -1,5 +1,0 @@
-name : ╠ХажаЬ
-age : 48
-e-mail : 1ym
-telephone : 010-3348-8433
-sex : female

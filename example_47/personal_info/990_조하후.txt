@@ -1,5 +1,0 @@
-name : а╤гохд
-age : 15
-e-mail : rf5
-telephone : 010-5815-1658
-sex : female

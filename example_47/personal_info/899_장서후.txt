@@ -1,5 +1,0 @@
-name : Àå¼­ÈÄ
-age : 44
-e-mail : jrk
-telephone : 010-0044-5400
-sex : female

@@ -1,5 +1,0 @@
-name : À±¿¹¿ø
-age : 63
-e-mail : j5f
-telephone : 010-9363-4193
-sex : female

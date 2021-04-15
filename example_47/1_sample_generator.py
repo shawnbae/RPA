@@ -1,9 +1,4 @@
-#-*-coding:euc-kr
-"""
-Author : Soohan Bae
-Github : https://github.com/shawnbae
-Last Modification : 2021.04.14
-"""
+# -*- coding: utf-8 -*-
 import time
 import random
 import os

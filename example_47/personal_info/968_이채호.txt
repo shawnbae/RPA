@@ -1,5 +1,0 @@
-name : ¿Ã√§»£
-age : 74
-e-mail : wha
-telephone : 010-5375-7253
-sex : male

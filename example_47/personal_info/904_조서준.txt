@@ -1,5 +1,0 @@
-name : ¡∂º≠¡ÿ
-age : 25
-e-mail : bu1
-telephone : 010-0025-6300
-sex : male

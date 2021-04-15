@@ -1,5 +1,0 @@
-name : ÀåÁöÈ£
-age : 15
-e-mail : wnb
-telephone : 010-6015-3060
-sex : male

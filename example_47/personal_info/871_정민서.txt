@@ -1,5 +1,0 @@
-name : Á¤¹Î¼­
-age : 25
-e-mail : 7il
-telephone : 010-0025-0700
-sex : female

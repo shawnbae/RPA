@@ -1,5 +1,0 @@
-name : ¿Â√§»£
-age : 15
-e-mail : v4b
-telephone : 010-8715-3787
-sex : female

@@ -1,5 +1,0 @@
-name : юсгохд
-age : 01
-e-mail : v1r
-telephone : 010-3301-4533
-sex : female

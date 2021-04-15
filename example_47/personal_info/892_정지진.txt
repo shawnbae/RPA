@@ -1,5 +1,0 @@
-name : Á¤ÁöÁø
-age : 17
-e-mail : maa
-telephone : 010-0017-4200
-sex : female

@@ -1,5 +1,0 @@
-name : Á¤ÁöÈÄ
-age : 34
-e-mail : ow1
-telephone : 010-9334-4093
-sex : male

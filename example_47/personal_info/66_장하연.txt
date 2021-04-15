@@ -1,5 +1,0 @@
-name : ¿Â«œø¨
-age : 28
-e-mail : 7ve
-telephone : 010-3328-9533
-sex : male

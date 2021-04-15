@@ -1,5 +1,0 @@
-name : ÀåÇÏÁø
-age : 44
-e-mail : g74
-telephone : 010-0044-7800
-sex : female

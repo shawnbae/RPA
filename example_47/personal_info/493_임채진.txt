@@ -1,5 +1,0 @@
-name : ÀÓÃ¤Áø
-age : 34
-e-mail : sf8
-telephone : 010-5334-6453
-sex : female

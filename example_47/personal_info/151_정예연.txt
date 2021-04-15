@@ -1,5 +1,0 @@
-name : Á¤¿¹¿¬
-age : 35
-e-mail : z6p
-telephone : 010-3335-4033
-sex : male

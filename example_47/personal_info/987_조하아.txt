@@ -1,5 +1,0 @@
-name : а╤го╬ф
-age : 38
-e-mail : wr8
-telephone : 010-5338-0453
-sex : male

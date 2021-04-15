@@ -1,5 +1,0 @@
-name : ¡∂¡÷ø¨
-age : 12
-e-mail : cmp
-telephone : 010-3312-2333
-sex : male

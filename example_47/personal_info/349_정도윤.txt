@@ -1,5 +1,0 @@
-name : Á¤µµÀ±
-age : 93
-e-mail : btz
-telephone : 010-3393-0433
-sex : female

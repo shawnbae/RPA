@@ -1,5 +1,0 @@
-name : ÀÌÀ±Áø
-age : 35
-e-mail : ron
-telephone : 010-0035-9700
-sex : female

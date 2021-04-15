@@ -1,5 +1,0 @@
-name : ÃÖÁöÈ£
-age : 38
-e-mail : qdt
-telephone : 010-3338-2633
-sex : male

@@ -1,5 +1,0 @@
-name : ю╠гою╠
-age : 19
-e-mail : 7qf
-telephone : 010-0019-9000
-sex : female

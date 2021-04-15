@@ -1,5 +1,0 @@
-name : ÀÓÁöÈ£
-age : 04
-e-mail : cin
-telephone : 010-0004-9400
-sex : female

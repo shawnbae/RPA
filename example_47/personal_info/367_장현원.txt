@@ -1,5 +1,0 @@
-name : ÀåÇö¿ø
-age : 36
-e-mail : yfk
-telephone : 010-3336-4333
-sex : male

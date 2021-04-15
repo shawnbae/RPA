@@ -1,5 +1,0 @@
-name : ¿Â¿±æ∆
-age : 47
-e-mail : 5h5
-telephone : 010-3347-3533
-sex : male

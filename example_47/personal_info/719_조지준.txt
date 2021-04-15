@@ -1,5 +1,0 @@
-name : Á¶ÁöÁØ
-age : 33
-e-mail : 145
-telephone : 010-9333-2593
-sex : female

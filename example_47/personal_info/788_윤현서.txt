@@ -1,5 +1,0 @@
-name : À±Çö¼­
-age : 98
-e-mail : cs9
-telephone : 010-9698-3996
-sex : male

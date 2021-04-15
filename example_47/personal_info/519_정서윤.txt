@@ -1,5 +1,0 @@
-name : Á¤¼­À±
-age : 34
-e-mail : srl
-telephone : 010-3334-9633
-sex : male

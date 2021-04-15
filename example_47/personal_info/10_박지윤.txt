@@ -1,5 +1,0 @@
-name : ¹ÚÁöÀ±
-age : 39
-e-mail : k0e
-telephone : 010-1339-8013
-sex : female

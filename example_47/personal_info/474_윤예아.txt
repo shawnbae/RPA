@@ -1,5 +1,0 @@
-name : À±¿¹¾Æ
-age : 48
-e-mail : 6dp
-telephone : 010-3348-0833
-sex : male

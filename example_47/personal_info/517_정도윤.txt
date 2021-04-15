@@ -1,5 +1,0 @@
-name : Á¤µµÀ±
-age : 33
-e-mail : ule
-telephone : 010-3333-6933
-sex : female

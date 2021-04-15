@@ -1,5 +1,0 @@
-name : ¹ÚÀ±ÁØ
-age : 38
-e-mail : wei
-telephone : 010-1338-4313
-sex : male

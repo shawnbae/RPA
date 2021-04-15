@@ -1,5 +1,0 @@
-name : СЄУЄСи
-age : 67
-e-mail : u1f
-telephone : 010-3367-9933
-sex : male

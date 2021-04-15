@@ -1,5 +1,0 @@
-name : ¿Â¿±¡ÿ
-age : 16
-e-mail : tbv
-telephone : 010-0016-0600
-sex : male

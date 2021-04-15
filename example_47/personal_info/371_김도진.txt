@@ -1,5 +1,0 @@
-name : ±èµµÁø
-age : 55
-e-mail : 6f4
-telephone : 010-3355-4033
-sex : male

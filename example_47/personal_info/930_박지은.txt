@@ -1,5 +1,0 @@
-name : ¹ÚÁöÀº
-age : 01
-e-mail : wp9
-telephone : 010-8001-4080
-sex : male

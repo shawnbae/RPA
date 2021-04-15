@@ -1,5 +1,0 @@
-name : ¿Â√§æ∆
-age : 08
-e-mail : oqn
-telephone : 010-3308-5733
-sex : female

@@ -1,5 +1,0 @@
-name : а╤го©Ь
-age : 38
-e-mail : dvm
-telephone : 010-0938-0809
-sex : female

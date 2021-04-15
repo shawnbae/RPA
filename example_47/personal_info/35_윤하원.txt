@@ -1,5 +1,0 @@
-name : ю╠го©Ь
-age : 09
-e-mail : hu2
-telephone : 010-3309-4333
-sex : female

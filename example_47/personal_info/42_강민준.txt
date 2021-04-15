@@ -1,5 +1,0 @@
-name : ∞≠πŒ¡ÿ
-age : 18
-e-mail : mdd
-telephone : 010-3318-5633
-sex : female

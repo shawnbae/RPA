@@ -1,5 +1,0 @@
-name : ±ËπŒ¿∫
-age : 39
-e-mail : sgf
-telephone : 010-3339-2933
-sex : female

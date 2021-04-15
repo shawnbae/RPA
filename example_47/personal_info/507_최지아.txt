@@ -1,5 +1,0 @@
-name : ÃÖÁö¾Æ
-age : 65
-e-mail : 7s3
-telephone : 010-3365-7333
-sex : female

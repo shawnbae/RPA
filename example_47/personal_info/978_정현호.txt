@@ -1,5 +1,0 @@
-name : Á¤ÇöÈ£
-age : 39
-e-mail : c2z
-telephone : 010-0539-4905
-sex : female

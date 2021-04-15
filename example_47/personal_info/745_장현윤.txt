@@ -1,5 +1,0 @@
-name : ÀåÇöÀ±
-age : 48
-e-mail : e7c
-telephone : 010-9348-6693
-sex : male

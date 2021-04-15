@@ -1,5 +1,0 @@
-name : ¡∂√§¡ÿ
-age : 24
-e-mail : meg
-telephone : 010-3324-7733
-sex : female

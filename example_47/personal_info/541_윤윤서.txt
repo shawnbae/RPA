@@ -1,5 +1,0 @@
-name : À±À±¼­
-age : 08
-e-mail : nh4
-telephone : 010-3308-3833
-sex : male

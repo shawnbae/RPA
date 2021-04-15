@@ -1,5 +1,0 @@
-name : À±¹ÎÁø
-age : 33
-e-mail : uge
-telephone : 010-9933-.499
-sex : female

@@ -1,5 +1,0 @@
-name : Á¤ÁöÈ£
-age : 96
-e-mail : f1s
-telephone : 010-9396-3693
-sex : male

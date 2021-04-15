@@ -1,5 +1,0 @@
-name : ¹ÚÇö¿ø
-age : 15
-e-mail : mlk
-telephone : 010-0015-8100
-sex : female

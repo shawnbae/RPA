@@ -1,5 +1,0 @@
-name : Á¤¼­¿ø
-age : 26
-e-mail : q8c
-telephone : 010-0026-6700
-sex : female

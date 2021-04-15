@@ -1,5 +1,0 @@
-name : Á¤¿¹¿¬
-age : 36
-e-mail : vf7
-telephone : 010-2336-8223
-sex : female

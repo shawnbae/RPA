@@ -1,5 +1,0 @@
-name : ÀÌ¿¹¼­
-age : 23
-e-mail : sgq
-telephone : 010-8723-2987
-sex : female

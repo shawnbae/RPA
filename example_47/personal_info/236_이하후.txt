@@ -1,5 +1,0 @@
-name : юлгохд
-age : 23
-e-mail : 1v0
-telephone : 010-3323-9833
-sex : female

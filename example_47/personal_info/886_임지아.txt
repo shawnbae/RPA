@@ -1,5 +1,0 @@
-name : юсаЖ╬ф
-age : 06
-e-mail : afx
-telephone : 010-3006-3330
-sex : female

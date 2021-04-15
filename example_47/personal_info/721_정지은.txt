@@ -1,5 +1,0 @@
-name : Á¤ÁöÀº
-age : 34
-e-mail : hrg
-telephone : 010-8934-0289
-sex : female

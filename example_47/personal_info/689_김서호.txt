@@ -1,5 +1,0 @@
-name : �輭ȣ
-age : 62
-e-mail : qxe
-telephone : 010-9362-8193
-sex : female

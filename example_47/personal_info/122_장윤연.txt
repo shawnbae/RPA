@@ -1,5 +1,0 @@
-name : ¿Â¿±ø¨
-age : 32
-e-mail : 7yy
-telephone : 010-9332-9893
-sex : male

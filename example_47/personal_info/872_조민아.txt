@@ -1,5 +1,0 @@
-name : Á¶¹Î¾Æ
-age : 46
-e-mail : 5ql
-telephone : 010-9001-3090
-sex : male

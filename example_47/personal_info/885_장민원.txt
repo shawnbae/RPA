@@ -1,5 +1,0 @@
-name : Àå¹Î¿ø
-age : 41
-e-mail : 5av
-telephone : 010-0041-3100
-sex : female

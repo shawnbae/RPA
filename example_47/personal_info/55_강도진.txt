@@ -1,5 +1,0 @@
-name : °­µµÁø
-age : 21
-e-mail : o0z
-telephone : 010-3321-7833
-sex : female

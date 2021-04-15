@@ -1,5 +1,0 @@
-name : ÀÓ¹ÎÈÄ
-age : 03
-e-mail : qks
-telephone : 010-9003-4390
-sex : male

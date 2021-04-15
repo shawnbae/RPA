@@ -1,5 +1,0 @@
-name : ¿”øπø¨
-age : 02
-e-mail : c05
-telephone : 010-3302-5433
-sex : female

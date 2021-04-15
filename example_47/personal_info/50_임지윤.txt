@@ -1,5 +1,0 @@
-name : юсаЖю╠
-age : 32
-e-mail : 99y
-telephone : 010-0332-8703
-sex : female

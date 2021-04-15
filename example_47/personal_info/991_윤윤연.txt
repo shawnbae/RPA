@@ -1,5 +1,0 @@
-name : À±À±¿¬
-age : 83
-e-mail : pb2
-telephone : 010-6004-1960
-sex : male

@@ -1,5 +1,0 @@
-name : Àåµµ¿ì
-age : 12
-e-mail : 4s0
-telephone : 010-0012-4400
-sex : male

@@ -1,5 +1,0 @@
-name : ¹Ú¿¹Àº
-age : 45
-e-mail : 4b8
-telephone : 010-3345-5033
-sex : female

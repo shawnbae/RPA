@@ -1,5 +1,0 @@
-name : À±À±È£
-age : 54
-e-mail : 0t2
-telephone : 010-3354-5233
-sex : female

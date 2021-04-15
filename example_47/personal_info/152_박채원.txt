@@ -1,5 +1,0 @@
-name : ¹ÚÃ¤¿ø
-age : 31
-e-mail : gph
-telephone : 010-1331-0413
-sex : female

@@ -1,5 +1,0 @@
-name : À±¹ÎÁø
-age : 83
-e-mail : y6o
-telephone : 010-9383-9493
-sex : female

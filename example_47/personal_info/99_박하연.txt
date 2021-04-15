@@ -1,5 +1,0 @@
-name : ¹ÚÇÏ¿¬
-age : 33
-e-mail : vv9
-telephone : 010-5133-.951
-sex : male

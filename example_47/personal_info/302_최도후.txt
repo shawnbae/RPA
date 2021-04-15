@@ -1,5 +1,0 @@
-name : ÃÖµµÈÄ
-age : 66
-e-mail : n5t
-telephone : 010-3358-2133
-sex : female

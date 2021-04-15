@@ -1,5 +1,0 @@
-name : Á¶µµ¾Æ
-age : 31
-e-mail : jn1
-telephone : 010-7331-9073
-sex : male

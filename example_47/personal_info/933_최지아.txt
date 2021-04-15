@@ -1,5 +1,0 @@
-name : ÃÖÁö¾Æ
-age : 02
-e-mail : 0zu
-telephone : 010-3002-4130
-sex : male

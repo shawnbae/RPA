@@ -1,5 +1,0 @@
-name : À±¼­¿ì
-age : 34
-e-mail : 76i
-telephone : 010-2334-2123
-sex : female

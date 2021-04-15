@@ -1,5 +1,0 @@
-name : ±è¿¹ÁØ
-age : 33
-e-mail : nny
-telephone : 010-6333-2163
-sex : female

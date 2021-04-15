@@ -1,5 +1,0 @@
-name : À±µµ¼­
-age : 33
-e-mail : hk4
-telephone : 010-8733-3487
-sex : female

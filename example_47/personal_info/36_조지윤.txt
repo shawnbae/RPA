@@ -1,5 +1,0 @@
-name : Á¶ÁöÀ±
-age : 43
-e-mail : xaz
-telephone : 010-3343-4533
-sex : female

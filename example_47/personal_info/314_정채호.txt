@@ -1,5 +1,0 @@
-name : Á¤Ã¤È£
-age : 36
-e-mail : krb
-telephone : 010-3336-3433
-sex : male

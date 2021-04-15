@@ -1,5 +1,0 @@
-name : ¿Âµµ¿±
-age : 36
-e-mail : c0r
-telephone : 010-3336-2133
-sex : male

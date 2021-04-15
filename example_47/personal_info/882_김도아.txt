@@ -1,5 +1,0 @@
-name : ±èµµ¾Æ
-age : 04
-e-mail : axh
-telephone : 010-6004-3260
-sex : male

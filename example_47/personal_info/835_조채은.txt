@@ -1,5 +1,0 @@
-name : Á¶Ã¤Àº
-age : 37
-e-mail : sf2
-telephone : 010-7937-2279
-sex : female

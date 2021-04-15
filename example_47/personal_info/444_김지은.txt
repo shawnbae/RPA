@@ -1,5 +1,0 @@
-name : ±èÁöÀº
-age : 04
-e-mail : s8t
-telephone : 010-3304-5733
-sex : male

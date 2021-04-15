@@ -1,5 +1,0 @@
-name : ÀåÃ¤Áø
-age : 37
-e-mail : co3
-telephone : 010-8937-1489
-sex : male

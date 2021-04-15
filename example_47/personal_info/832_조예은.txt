@@ -1,5 +1,0 @@
-name : Á¶¿¹Àº
-age : 35
-e-mail : x6z
-telephone : 010-2935-2229
-sex : male

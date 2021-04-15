@@ -1,5 +1,0 @@
-name : Á¶ÇöÀº
-age : 47
-e-mail : 6w4
-telephone : 010-3347-4833
-sex : male

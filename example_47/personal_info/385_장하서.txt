@@ -1,5 +1,0 @@
-name : ¿Â«œº≠
-age : 58
-e-mail : dma
-telephone : 010-3358-6233
-sex : male

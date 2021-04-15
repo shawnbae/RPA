@@ -1,5 +1,0 @@
-name : �弭ȣ
-age : 09
-e-mail : okh
-telephone : 010-3309-7633
-sex : male

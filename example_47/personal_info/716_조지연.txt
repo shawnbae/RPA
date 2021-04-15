@@ -1,5 +1,0 @@
-name : Á¶Áö¿¬
-age : 34
-e-mail : w2j
-telephone : 010-9334-2093
-sex : male

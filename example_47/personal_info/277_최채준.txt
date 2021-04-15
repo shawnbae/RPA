@@ -1,5 +1,0 @@
-name : √÷√§¡ÿ
-age : 63
-e-mail : njk
-telephone : 010-3363-7533
-sex : male

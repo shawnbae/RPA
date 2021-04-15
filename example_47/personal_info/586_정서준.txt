@@ -1,5 +1,0 @@
-name : ¡§º≠¡ÿ
-age : 22
-e-mail : gz1
-telephone : 010-3322-1433
-sex : female

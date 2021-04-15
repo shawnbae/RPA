@@ -1,5 +1,0 @@
-name : ¿Âµµ¡ÿ
-age : 27
-e-mail : oh2
-telephone : 010-3327-0633
-sex : male

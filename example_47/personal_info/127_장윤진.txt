@@ -1,5 +1,0 @@
-name : ÀåÀ±Áø
-age : 08
-e-mail : 3m1
-telephone : 010-3308-9833
-sex : male

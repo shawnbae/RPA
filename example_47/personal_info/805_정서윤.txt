@@ -1,5 +1,0 @@
-name : Á¤¼­À±
-age : 73
-e-mail : pmp
-telephone : 010-9373-7093
-sex : female

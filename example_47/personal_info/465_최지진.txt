@@ -1,5 +1,0 @@
-name : ÃÖÁöÁø
-age : 35
-e-mail : 7cp
-telephone : 010-3335-9333
-sex : male

@@ -1,5 +1,0 @@
-name : Á¶¹Î¿ø
-age : 85
-e-mail : 0mh
-telephone : 010-9385-9293
-sex : female

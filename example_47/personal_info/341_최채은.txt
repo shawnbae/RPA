@@ -1,5 +1,0 @@
-name : √÷√§¿∫
-age : 68
-e-mail : hnu
-telephone : 010-3368-9033
-sex : male

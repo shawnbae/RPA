@@ -1,5 +1,0 @@
-name : ÃÖ¹Î¿ø
-age : 31
-e-mail : vcq
-telephone : 010-0331-8603
-sex : female

@@ -1,5 +1,0 @@
-name : ÃÖµµÁø
-age : 33
-e-mail : 613
-telephone : 010-4333-5143
-sex : female

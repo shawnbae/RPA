@@ -1,5 +1,0 @@
-name : ÀÌ¿¹ÈÄ
-age : 15
-e-mail : 0uk
-telephone : 010-3315-7533
-sex : female

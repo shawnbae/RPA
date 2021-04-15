@@ -1,5 +1,0 @@
-name : À±¼­Àº
-age : 02
-e-mail : u9h
-telephone : 010-4002-3140
-sex : male

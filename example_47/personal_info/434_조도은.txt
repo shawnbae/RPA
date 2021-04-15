@@ -1,5 +1,0 @@
-name : Á¶µµÀº
-age : 32
-e-mail : m5z
-telephone : 010-3332-3833
-sex : male

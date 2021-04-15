@@ -1,5 +1,0 @@
-name : ±è¼­Áø
-age : 25
-e-mail : 3os
-telephone : 010-3325-4233
-sex : female

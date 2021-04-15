@@ -1,5 +1,0 @@
-name : √÷µµ¿∫
-age : 73
-e-mail : ft2
-telephone : 010-3373-0033
-sex : male

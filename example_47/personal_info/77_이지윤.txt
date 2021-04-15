@@ -1,5 +1,0 @@
-name : ÀÌÁöÀ±
-age : 36
-e-mail : 27d
-telephone : 010-3336-9133
-sex : male

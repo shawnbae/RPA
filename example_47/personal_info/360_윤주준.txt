@@ -1,5 +1,0 @@
-name : ¿±¡÷¡ÿ
-age : 54
-e-mail : n6d
-telephone : 010-3354-2233
-sex : female

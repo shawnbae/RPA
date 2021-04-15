@@ -1,5 +1,0 @@
-name : ÃÖÁöÈÄ
-age : 92
-e-mail : gia
-telephone : 010-3292-5832
-sex : male

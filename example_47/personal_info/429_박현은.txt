@@ -1,5 +1,0 @@
-name : ¹ÚÇöÀº
-age : 32
-e-mail : pej
-telephone : 010-9332-5293
-sex : female

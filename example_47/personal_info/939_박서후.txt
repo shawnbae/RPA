@@ -1,5 +1,0 @@
-name : ¹Ú¼­ÈÄ
-age : 01
-e-mail : fwm
-telephone : 010-3001-4230
-sex : male

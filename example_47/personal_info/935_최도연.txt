@@ -1,5 +1,0 @@
-name : √÷µµø¨
-age : 18
-e-mail : jnv
-telephone : 010-0018-1600
-sex : female

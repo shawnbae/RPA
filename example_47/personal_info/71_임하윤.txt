@@ -1,5 +1,0 @@
-name : юсгою╠
-age : 34
-e-mail : cir
-telephone : 010-3334-0433
-sex : male

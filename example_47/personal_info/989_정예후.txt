@@ -1,5 +1,0 @@
-name : Á¤¿¹ÈÄ
-age : 36
-e-mail : 5ou
-telephone : 010-7536-5075
-sex : female

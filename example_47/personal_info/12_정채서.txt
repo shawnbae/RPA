@@ -1,5 +1,0 @@
-name : Á¤Ã¤¼­
-age : 68
-e-mail : 68y
-telephone : 010-3368-0433
-sex : female

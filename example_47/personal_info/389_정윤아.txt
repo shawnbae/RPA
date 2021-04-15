@@ -1,5 +1,0 @@
-name : Á¤À±¾Æ
-age : 56
-e-mail : 34t
-telephone : 010-3356-6833
-sex : male

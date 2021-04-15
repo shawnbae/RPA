@@ -1,5 +1,0 @@
-name : ÀÌ¿¹ÈÄ
-age : 32
-e-mail : j30
-telephone : 010-3332-8733
-sex : female

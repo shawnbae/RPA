@@ -1,5 +1,0 @@
-name : À±Áö¼­
-age : 07
-e-mail : la3
-telephone : 010-3307-0633
-sex : female

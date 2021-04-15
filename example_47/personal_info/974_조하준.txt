@@ -1,5 +1,0 @@
-name : ¡∂«œ¡ÿ
-age : 46
-e-mail : dg4
-telephone : 010-5346-8353
-sex : female

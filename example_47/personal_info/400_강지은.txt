@@ -1,5 +1,0 @@
-name : °­ÁöÀº
-age : 93
-e-mail : 08d
-telephone : 010-3293-8332
-sex : male

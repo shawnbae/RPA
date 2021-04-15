@@ -1,5 +1,0 @@
-name : À±ÁöÈÄ
-age : 32
-e-mail : 1f1
-telephone : 010-3332-6433
-sex : male

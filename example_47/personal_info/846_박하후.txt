@@ -1,5 +1,0 @@
-name : ╧згохд
-age : 22
-e-mail : b22
-telephone : 010-0022-5900
-sex : female

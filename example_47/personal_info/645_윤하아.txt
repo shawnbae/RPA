@@ -1,5 +1,0 @@
-name : ю╠го╬ф
-age : 03
-e-mail : 4y4
-telephone : 010-8703-1087
-sex : male

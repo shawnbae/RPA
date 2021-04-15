@@ -1,5 +1,0 @@
-name : °­¹ÎÁø
-age : 31
-e-mail : hro
-telephone : 010-2331-9323
-sex : male

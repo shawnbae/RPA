@@ -1,5 +1,0 @@
-name : À±ÁöÁø
-age : 56
-e-mail : 2e6
-telephone : 010-3356-4733
-sex : male

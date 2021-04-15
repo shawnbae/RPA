@@ -1,5 +1,0 @@
-name : ÀÌÁö¿ø
-age : 33
-e-mail : m2h
-telephone : 010-4033-.540
-sex : male

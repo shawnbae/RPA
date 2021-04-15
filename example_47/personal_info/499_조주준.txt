@@ -1,5 +1,0 @@
-name : ¡∂¡÷¡ÿ
-age : 33
-e-mail : inv
-telephone : 010-6333-6563
-sex : male

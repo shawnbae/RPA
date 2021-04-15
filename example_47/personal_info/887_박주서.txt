@@ -1,5 +1,0 @@
-name : ╧заж╪╜
-age : 32
-e-mail : 9mt
-telephone : 010-0032-3400
-sex : male

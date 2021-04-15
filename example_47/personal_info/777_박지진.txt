@@ -1,5 +1,0 @@
-name : ¹ÚÁöÁø
-age : 45
-e-mail : pz3
-telephone : 010-9345-2093
-sex : male

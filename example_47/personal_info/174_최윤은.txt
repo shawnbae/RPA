@@ -1,5 +1,0 @@
-name : √÷¿±¿∫
-age : 23
-e-mail : vfy
-telephone : 010-3323-8333
-sex : female

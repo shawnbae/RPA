@@ -1,5 +1,0 @@
-name : ¡§πŒ»£
-age : 23
-e-mail : 8fh
-telephone : 010-3323-4133
-sex : female

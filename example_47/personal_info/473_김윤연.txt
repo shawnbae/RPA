@@ -1,5 +1,0 @@
-name : ±Ë¿±ø¨
-age : 33
-e-mail : t6f
-telephone : 010-3333-0633
-sex : female

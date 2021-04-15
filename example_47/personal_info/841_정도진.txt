@@ -1,5 +1,0 @@
-name : Á¤µµÁø
-age : 05
-e-mail : e2b
-telephone : 010-0005-5000
-sex : female

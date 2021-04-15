@@ -1,5 +1,0 @@
-name : ¿Ã¿±¡ÿ
-age : 18
-e-mail : cjz
-telephone : 010-3318-6033
-sex : female

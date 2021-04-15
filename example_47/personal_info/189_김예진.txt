@@ -1,5 +1,0 @@
-name : ±è¿¹Áø
-age : 11
-e-mail : v4a
-telephone : 010-3311-0933
-sex : male

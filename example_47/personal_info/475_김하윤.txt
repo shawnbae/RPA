@@ -1,5 +1,0 @@
-name : ±Ë«œ¿±
-age : 56
-e-mail : 2ph
-telephone : 010-3356-1033
-sex : female

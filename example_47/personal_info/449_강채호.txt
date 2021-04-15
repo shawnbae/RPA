@@ -1,5 +1,0 @@
-name : °­Ã¤È£
-age : 04
-e-mail : 27k
-telephone : 010-3304-6633
-sex : female

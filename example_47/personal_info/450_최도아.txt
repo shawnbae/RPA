@@ -1,5 +1,0 @@
-name : √÷µµæ∆
-age : 15
-e-mail : i7h
-telephone : 010-3315-6833
-sex : female

@@ -1,5 +1,0 @@
-name : юс©╧©Л
-age : 64
-e-mail : j25
-telephone : 010-8683-5886
-sex : male

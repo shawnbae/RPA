@@ -1,5 +1,0 @@
-name : ÀåÁÖÈÄ
-age : 18
-e-mail : 9eb
-telephone : 010-0018-9300
-sex : male

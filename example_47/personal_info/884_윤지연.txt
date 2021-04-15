@@ -1,5 +1,0 @@
-name : À±Áö¿¬
-age : 29
-e-mail : bhw
-telephone : 010-0029-2900
-sex : female

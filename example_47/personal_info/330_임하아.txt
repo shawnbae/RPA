@@ -1,5 +1,0 @@
-name : юсго╬ф
-age : 36
-e-mail : n7n
-telephone : 010-0336-3703
-sex : female

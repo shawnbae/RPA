@@ -1,5 +1,0 @@
-name : ±è¿¹Áø
-age : 13
-e-mail : d8c
-telephone : 010-3313-2533
-sex : female

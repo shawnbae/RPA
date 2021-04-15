@@ -1,5 +1,0 @@
-name : ±è¿¹ÁØ
-age : 15
-e-mail : aeo
-telephone : 010-0015-5500
-sex : male

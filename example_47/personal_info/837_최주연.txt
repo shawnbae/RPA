@@ -1,5 +1,0 @@
-name : √÷¡÷ø¨
-age : 12
-e-mail : ymf
-telephone : 010-0012-4000
-sex : male

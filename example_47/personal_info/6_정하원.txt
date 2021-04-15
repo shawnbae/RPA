@@ -1,5 +1,0 @@
-name : а╓го©Ь
-age : 33
-e-mail : r0h
-telephone : 010-5333-7953
-sex : female

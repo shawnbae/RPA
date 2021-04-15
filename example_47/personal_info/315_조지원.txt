@@ -1,5 +1,0 @@
-name : Á¶Áö¿ø
-age : 57
-e-mail : rrr
-telephone : 010-3357-4533
-sex : male

@@ -1,5 +1,0 @@
-name : Á¶¼­Áø
-age : 33
-e-mail : i80
-telephone : 010-6333-9763
-sex : male

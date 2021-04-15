@@ -1,5 +1,0 @@
-name : ¹ÚÁö¿ì
-age : 63
-e-mail : v2u
-telephone : 010-9363-4993
-sex : male

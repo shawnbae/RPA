@@ -1,5 +1,0 @@
-name : ¹ÚÁöÈ£
-age : 15
-e-mail : chp
-telephone : 010-3315-6133
-sex : male

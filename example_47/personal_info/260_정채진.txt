@@ -1,5 +1,0 @@
-name : Á¤Ã¤Áø
-age : 32
-e-mail : zbe
-telephone : 010-4332-2443
-sex : female

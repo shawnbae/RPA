@@ -1,5 +1,0 @@
-name : а╓аж╬ф
-age : 86
-e-mail : ul8
-telephone : 010-9386-0293
-sex : male

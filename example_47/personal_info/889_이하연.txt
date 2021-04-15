@@ -1,5 +1,0 @@
-name : юлго©╛
-age : 39
-e-mail : map
-telephone : 010-0039-3800
-sex : female

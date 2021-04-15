@@ -1,5 +1,0 @@
-name : ±Ë«œ¡ÿ
-age : 11
-e-mail : 0lu
-telephone : 010-3311-6633
-sex : female

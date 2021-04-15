@@ -1,5 +1,0 @@
-name : юсц╓©Ь
-age : 34
-e-mail : g8w
-telephone : 010-4934-1049
-sex : female

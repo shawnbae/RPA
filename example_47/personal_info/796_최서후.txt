@@ -1,5 +1,0 @@
-name : ÃÖ¼­ÈÄ
-age : 41
-e-mail : 58h
-telephone : 010-4941-1549
-sex : male

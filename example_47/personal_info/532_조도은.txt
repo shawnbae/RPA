@@ -1,5 +1,0 @@
-name : Á¶µµÀº
-age : 37
-e-mail : p1b
-telephone : 010-3337-2133
-sex : male

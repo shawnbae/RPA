@@ -1,5 +1,0 @@
-name : Á¤ÁöÀº
-age : 58
-e-mail : iyd
-telephone : 010-9358-0393
-sex : female

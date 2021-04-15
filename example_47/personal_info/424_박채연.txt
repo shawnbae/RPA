@@ -1,5 +1,0 @@
-name : ¹ÚÃ¤¿¬
-age : 54
-e-mail : cmm
-telephone : 010-3354-2033
-sex : male

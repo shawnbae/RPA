@@ -1,5 +1,0 @@
-name : ¿”º≠¿∫
-age : 44
-e-mail : w62
-telephone : 010-3344-0833
-sex : female

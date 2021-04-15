@@ -1,5 +1,0 @@
-name : ÀÓµµÈÄ
-age : 55
-e-mail : 8zc
-telephone : 010-5355-6453
-sex : female

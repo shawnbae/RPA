@@ -1,5 +1,0 @@
-name : ¹Ú¿¹¿ì
-age : 02
-e-mail : mo9
-telephone : 010-1002-4010
-sex : female

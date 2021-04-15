@@ -1,5 +1,0 @@
-name : Á¤¿¹¿ì
-age : 42
-e-mail : nm1
-telephone : 010-3342-6333
-sex : male

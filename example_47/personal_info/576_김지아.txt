@@ -1,5 +1,0 @@
-name : ±èÁö¾Æ
-age : 43
-e-mail : rjh
-telephone : 010-3343-9633
-sex : male

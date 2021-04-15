@@ -1,5 +1,0 @@
-name : ¿Â¡÷ø¨
-age : 32
-e-mail : 5ux
-telephone : 010-9332-0493
-sex : female

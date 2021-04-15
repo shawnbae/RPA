@@ -1,5 +1,0 @@
-name : °­Ã¤¿¬
-age : 52
-e-mail : gvu
-telephone : 010-3351-9433
-sex : male

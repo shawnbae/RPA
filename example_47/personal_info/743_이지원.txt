@@ -1,5 +1,0 @@
-name : ÀÌÁö¿ø
-age : 36
-e-mail : gu5
-telephone : 010-9336-6393
-sex : female

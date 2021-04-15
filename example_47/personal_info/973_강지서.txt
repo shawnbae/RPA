@@ -1,5 +1,0 @@
-name : °­Áö¼­
-age : 73
-e-mail : 1xo
-telephone : 010-5373-8153
-sex : female

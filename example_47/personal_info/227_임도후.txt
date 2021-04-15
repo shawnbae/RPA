@@ -1,5 +1,0 @@
-name : ÀÓµµÈÄ
-age : 19
-e-mail : 1xg
-telephone : 010-3319-8133
-sex : male

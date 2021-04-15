@@ -1,5 +1,0 @@
-name : ю╠гохё
-age : 04
-e-mail : l5c
-telephone : 010-8704-0287
-sex : female

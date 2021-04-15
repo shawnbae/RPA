@@ -1,5 +1,0 @@
-name : ¿Âº≠º≠
-age : 66
-e-mail : 3sg
-telephone : 010-3366-8133
-sex : female

@@ -1,5 +1,0 @@
-name : ¹Ú¼­¿ø
-age : 67
-e-mail : 3u6
-telephone : 010-3367-8233
-sex : female

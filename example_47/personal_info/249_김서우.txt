@@ -1,5 +1,0 @@
-name : ±è¼­¿ì
-age : 32
-e-mail : fob
-telephone : 010-3332-2233
-sex : female

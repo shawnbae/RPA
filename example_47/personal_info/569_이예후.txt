@@ -1,5 +1,0 @@
-name : ÀÌ¿¹ÈÄ
-age : 32
-e-mail : cpf
-telephone : 010-3332-7833
-sex : male

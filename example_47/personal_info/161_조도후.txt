@@ -1,5 +1,0 @@
-name : Á¶µµÈÄ
-age : 45
-e-mail : 2xs
-telephone : 010-3345-5933
-sex : male

@@ -1,5 +1,0 @@
-name : ¹ÚÁÖÈÄ
-age : 75
-e-mail : 40m
-telephone : 010-3375-1133
-sex : female

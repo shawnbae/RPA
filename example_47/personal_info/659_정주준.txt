@@ -1,5 +1,0 @@
-name : ¡§¡÷¡ÿ
-age : 04
-e-mail : 06s
-telephone : 010-8704-3287
-sex : female

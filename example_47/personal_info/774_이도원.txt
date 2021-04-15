@@ -1,5 +1,0 @@
-name : ÀÌµµ¿ø
-age : 35
-e-mail : yds
-telephone : 010-5935-1159
-sex : male

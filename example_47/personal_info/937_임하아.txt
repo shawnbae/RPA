@@ -1,5 +1,0 @@
-name : юсго╬ф
-age : 23
-e-mail : uyo
-telephone : 010-0023-1900
-sex : female

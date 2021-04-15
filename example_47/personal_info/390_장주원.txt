@@ -1,5 +1,0 @@
-name : ÀåÁÖ¿ø
-age : 63
-e-mail : 9zt
-telephone : 010-3363-6933
-sex : female

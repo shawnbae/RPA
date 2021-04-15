@@ -1,5 +1,0 @@
-name : ¿Â√§»£
-age : 55
-e-mail : i3w
-telephone : 010-3355-8733
-sex : male

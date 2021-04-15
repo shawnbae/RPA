@@ -1,5 +1,0 @@
-name : ¹ÚÁö¾Æ
-age : 58
-e-mail : uuc
-telephone : 010-5358-7053
-sex : male

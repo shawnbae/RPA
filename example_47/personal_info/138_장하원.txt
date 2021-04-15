@@ -1,5 +1,0 @@
-name : ÀåÇÏ¿ø
-age : 55
-e-mail : hjq
-telephone : 010-3455-1634
-sex : male

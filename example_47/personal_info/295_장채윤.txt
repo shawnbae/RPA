@@ -1,5 +1,0 @@
-name : ¿Â√§¿±
-age : 35
-e-mail : q70
-telephone : 010-3335-0633
-sex : female

@@ -1,5 +1,0 @@
-name : ¿Ãµµ¡ÿ
-age : 33
-e-mail : cp8
-telephone : 010-3333-0133
-sex : female

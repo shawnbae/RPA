@@ -1,5 +1,0 @@
-name : ¡∂¡÷¿±
-age : 53
-e-mail : 982
-telephone : 010-3353-6533
-sex : female

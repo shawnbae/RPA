@@ -1,5 +1,0 @@
-name : À±ÇöÈ£
-age : 33
-e-mail : 87v
-telephone : 010-4332-0243
-sex : male

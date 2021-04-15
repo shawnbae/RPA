@@ -1,5 +1,0 @@
-name : ¿”«œº≠
-age : 87
-e-mail : y90
-telephone : 010-3387-1733
-sex : female

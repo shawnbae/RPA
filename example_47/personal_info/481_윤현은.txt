@@ -1,5 +1,0 @@
-name : À±ÇöÀº
-age : 24
-e-mail : gaa
-telephone : 010-3324-2133
-sex : male

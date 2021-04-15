@@ -1,5 +1,0 @@
-name : ¡§¡÷»£
-age : 47
-e-mail : qzw
-telephone : 010-3347-2633
-sex : male

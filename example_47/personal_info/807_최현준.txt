@@ -1,5 +1,0 @@
-name : ÃÖÇöÁØ
-age : 34
-e-mail : hy4
-telephone : 010-9334-7493
-sex : male

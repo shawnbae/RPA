@@ -1,5 +1,0 @@
-name : Á¤µµ¾Æ
-age : 15
-e-mail : x9k
-telephone : 010-3315-1733
-sex : female

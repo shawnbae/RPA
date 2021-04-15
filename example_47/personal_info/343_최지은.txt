@@ -1,5 +1,0 @@
-name : ÃÖÁöÀº
-age : 31
-e-mail : nnc
-telephone : 010-3331-9433
-sex : male

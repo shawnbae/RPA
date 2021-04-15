@@ -1,5 +1,0 @@
-name : Á¶¼­¿¬
-age : 21
-e-mail : lg7
-telephone : 010-3321-9433
-sex : male

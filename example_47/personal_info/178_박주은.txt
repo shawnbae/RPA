@@ -1,5 +1,0 @@
-name : ╧зажю╨
-age : 08
-e-mail : 6a4
-telephone : 010-3308-9033
-sex : female

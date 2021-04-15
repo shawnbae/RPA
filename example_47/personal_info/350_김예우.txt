@@ -1,5 +1,0 @@
-name : ±è¿¹¿ì
-age : 52
-e-mail : 7pi
-telephone : 010-6335-4063
-sex : male

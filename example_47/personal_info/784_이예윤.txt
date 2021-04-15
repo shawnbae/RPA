@@ -1,5 +1,0 @@
-name : ÀÌ¿¹À±
-age : 34
-e-mail : kk9
-telephone : 010-2934-1329
-sex : female

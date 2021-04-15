@@ -1,5 +1,0 @@
-name : ÀåÁö¿ø
-age : 13
-e-mail : 46j
-telephone : 010-3313-2233
-sex : male

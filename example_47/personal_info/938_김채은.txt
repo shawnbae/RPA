@@ -1,5 +1,0 @@
-name : ±Ë√§¿∫
-age : 03
-e-mail : 7mm
-telephone : 010-1003-4210
-sex : male

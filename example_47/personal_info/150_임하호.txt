@@ -1,5 +1,0 @@
-name : юсгохё
-age : 68
-e-mail : st2
-telephone : 010-3368-3733
-sex : female

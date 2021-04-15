@@ -1,5 +1,0 @@
-name : À±µµ¾Æ
-age : 02
-e-mail : y7m
-telephone : 010-3302-6833
-sex : male

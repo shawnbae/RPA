@@ -1,5 +1,0 @@
-name : ÃÖ¿¹ÈÄ
-age : 16
-e-mail : jkp
-telephone : 010-3306-0633
-sex : female

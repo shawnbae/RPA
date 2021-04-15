@@ -1,5 +1,0 @@
-name : ¹Ú¿¹¿ø
-age : 03
-e-mail : 3k2
-telephone : 010-3303-9533
-sex : female

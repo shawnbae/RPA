@@ -1,5 +1,0 @@
-name : นฺว๖มุ
-age : 17
-e-mail : 0uy
-telephone : 010-3317-3933
-sex : male

@@ -1,5 +1,0 @@
-name : ±Ë¡÷¿∫
-age : 63
-e-mail : tat
-telephone : 010-3363-2833
-sex : male

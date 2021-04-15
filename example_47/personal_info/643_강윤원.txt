@@ -1,5 +1,0 @@
-name : °­À±¿ø
-age : 66
-e-mail : oqn
-telephone : 010-7866-9078
-sex : female

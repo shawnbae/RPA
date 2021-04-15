@@ -1,5 +1,0 @@
-name : Á¶µµÈÄ
-age : 36
-e-mail : pl5
-telephone : 010-2936-0929
-sex : female

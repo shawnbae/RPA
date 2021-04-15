@@ -1,5 +1,0 @@
-name : °­ÇöÁØ
-age : 55
-e-mail : c6s
-telephone : 010-5355-9353
-sex : male

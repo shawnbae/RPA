@@ -1,5 +1,0 @@
-name : ±è¿¹¼­
-age : 05
-e-mail : 4ls
-telephone : 010-0005-4500
-sex : male

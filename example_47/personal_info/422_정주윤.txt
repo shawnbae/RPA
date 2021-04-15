@@ -1,5 +1,0 @@
-name : ¡§¡÷¿±
-age : 33
-e-mail : i3q
-telephone : 010-7333-5173
-sex : male

@@ -1,5 +1,0 @@
-name : ¿Â¡÷ø¨
-age : 22
-e-mail : mq4
-telephone : 010-3322-8433
-sex : female

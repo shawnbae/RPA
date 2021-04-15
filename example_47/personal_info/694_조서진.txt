@@ -1,5 +1,0 @@
-name : Á¶¼­Áø
-age : 48
-e-mail : gqq
-telephone : 010-9348-8893
-sex : female

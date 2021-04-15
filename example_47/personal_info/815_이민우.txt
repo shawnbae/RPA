@@ -1,5 +1,0 @@
-name : ÀÌ¹Î¿ì
-age : 59
-e-mail : s7i
-telephone : 010-9359-9093
-sex : male

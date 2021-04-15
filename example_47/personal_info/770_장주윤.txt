@@ -1,5 +1,0 @@
-name : ¿Â¡÷¿±
-age : 48
-e-mail : r30
-telephone : 010-9348-0993
-sex : male

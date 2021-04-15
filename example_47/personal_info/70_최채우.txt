@@ -1,5 +1,0 @@
-name : √÷√§øÏ
-age : 47
-e-mail : fd9
-telephone : 010-3347-0233
-sex : male

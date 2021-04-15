@@ -1,5 +1,0 @@
-name : ¹ÚÇöÈÄ
-age : 22
-e-mail : a11
-telephone : 010-3322-5833
-sex : female

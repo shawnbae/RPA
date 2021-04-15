@@ -1,5 +1,0 @@
-name : À±¿¹¿ø
-age : 71
-e-mail : l3w
-telephone : 010-3371-5333
-sex : female

@@ -1,5 +1,0 @@
-name : ¿Ãº≠¿±
-age : 64
-e-mail : xay
-telephone : 010-9373-2493
-sex : male

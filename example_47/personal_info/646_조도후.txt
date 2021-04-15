@@ -1,5 +1,0 @@
-name : Á¶µµÈÄ
-age : 33
-e-mail : bwm
-telephone : 010-8711-1287
-sex : female

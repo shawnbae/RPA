@@ -1,5 +1,0 @@
-name : СЄСіСи
-age : 41
-e-mail : hru
-telephone : 010-3341-2533
-sex : female

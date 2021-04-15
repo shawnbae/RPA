@@ -1,5 +1,0 @@
-name : ÀÌÁö¿ø
-age : 23
-e-mail : 3d0
-telephone : 010-0023-8400
-sex : female

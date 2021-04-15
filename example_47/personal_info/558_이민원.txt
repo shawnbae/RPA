@@ -1,5 +1,0 @@
-name : ÀÌ¹Î¿ø
-age : 33
-e-mail : ltq
-telephone : 010-3333-6633
-sex : female

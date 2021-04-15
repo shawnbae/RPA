@@ -1,5 +1,0 @@
-name : ¹ÚÇöÀ±
-age : 85
-e-mail : ju6
-telephone : 010-3385-6233
-sex : male
