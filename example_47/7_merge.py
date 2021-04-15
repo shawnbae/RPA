@@ -1,4 +1,4 @@
-#-*-coding:euc-kr-*-
+#-*-coding:utf-8-*-
 """
 Author : Soohan Bae
 GitHub : https://github.com/shawnbae

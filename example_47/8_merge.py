@@ -1,9 +1,8 @@
-#-*-coding:euc-kr
+#-*-coding:utf-8
 """
-Author : Byunghyun Ban
-GitHub : https://github.com/needleworm
-Book : 6개월 치 업무를 하루 만에 끝내는 업무 자동화
-Last Modification : 2020.02.12.
+Author : Soohan Bae
+GitHub : https://github.com/shawnbae
+Last Modification : 2021.04.15.
 """
 import time
 import os
