@@ -1,5 +1,4 @@
 #-*-coding:euc-kr
-qqqqqqqqqqqqqqqqq
 import time
 import os
 import pyexcel as px
