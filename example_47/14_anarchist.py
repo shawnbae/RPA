@@ -1,10 +1,4 @@
-#-*-coding:euc-kr
-"""
-Author : Byunghyun Ban
-GitHub : https://github.com/needleworm
-Book : 6개월 치 업무를 하루 만에 끝내는 업무 자동화
-Last Modification : 2020.02.12.
-"""
+# coding=euc-kr
 import time
 import os
 import pyexcel as px
