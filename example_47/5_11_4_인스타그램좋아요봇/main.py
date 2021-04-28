@@ -1,5 +1,4 @@
-#-*-coding:euc-kr
-
+#-*-coding:utf-8
 import sys
 import time
 import insta_bot_like as ib
