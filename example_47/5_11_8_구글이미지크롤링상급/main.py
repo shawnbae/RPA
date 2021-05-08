@@ -4,7 +4,6 @@ import os
 import time
 import google_image_crawler as ic
 
-
 # 작업 시작 메시지를 출력합니다.
 print("Process Start.")
 
