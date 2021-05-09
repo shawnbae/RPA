@@ -3,7 +3,6 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 import time
 
-
 class ImgCrawler:
     def __init__(self, out_dir):
         # 쿼리 베이스를 제작합니다.
